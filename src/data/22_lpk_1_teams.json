@@ -1,0 +1,5964 @@
+{
+  "teams": {
+    "pan_con_queso": {
+      "name": "1 2 3 Pan con Queso",
+      "logo": "https://i.ibb.co/vznq2VR/123-pan-con-queso.jpg",
+      "players": [
+        {
+          "name": "Luis Arthur",
+          "id": "pcq_1",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m",
+          "profile": "https://i.ibb.co/yngJSXS/LUIS-ARTHUR.jpg"
+        },
+        {
+          "name": "Ana Patricia Murgas",
+          "id": "pcq_2",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f",
+          "profile": "https://i.ibb.co/CBQjKZw/ANA-PATRICIA-MURGAS.jpg"
+        },
+        {
+          "name": "Israel Mollick",
+          "id": "pcq_3",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m",
+          "profile": "https://i.ibb.co/sRv96TX/ISRAEL-MOLLICK.jpg"
+        },
+        {
+          "name": "Jose Schouwe",
+          "id": "pcq_4",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m",
+          "profile": "https://i.ibb.co/6HC1Wrs/JOSE-SCHOUWE.jpg"
+        },
+        {
+          "name": "Luis Antonio Branca man",
+          "id": "pcq_5",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m",
+          "profile": "https://i.ibb.co/QYFbMyL/LUIS-BRANCA.jpg"
+        },
+        {
+          "name": "Brandon Alberto Lau zelaya",
+          "id": "pcq_6",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m",
+          "profile": "https://i.ibb.co/0jgLXVY/BRANDON-LAU.jpg"
+        },
+        {
+          "name": "Rodrigo Chiari",
+          "id": "pcq_7",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m",
+          "profile": "https://i.ibb.co/VW9gf3Z/RODRIGO-CHIARI.jpg"
+        },
+        {
+          "name": "Nadia Damaris Ducreux Jimenez",
+          "id": "pcq_8",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f",
+          "profile": "https://i.ibb.co/q17vMVW/NADIA-DUCREUX.jpg"
+        },
+        {
+          "name": "Christian Tapage",
+          "id": "pcq_9",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m",
+          "profile": "https://i.ibb.co/bNyHzbg/CHRISTIAN-TAPAGE.jpg"
+        },
+        {
+          "name": "Denzel Arthur",
+          "id": "pcq_10",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m",
+          "profile": "https://i.ibb.co/B27zh6r/DENZEL-ARTHUR.jpg"
+        },
+        {
+          "name": "Roberto Antonio Chue Germino",
+          "id": "pcq_11",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m",
+          "profile": "https://i.ibb.co/BGBC7HK/ROBERTO-CHUE.jpg"
+        },
+        {
+          "name": "Rossy Turmero",
+          "id": "pcq_12",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f",
+          "profile": "https://i.ibb.co/1fQy1cy/ROSSY-TUMERO.jpg"
+        },
+        {
+          "name": "Dorian Solis",
+          "id": "pcq_13",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f",
+          "profile": "https://i.ibb.co/2P3PNZG/DORIAN-SOLIS.jpg"
+        },
+        {
+          "name": "Madeleine Zulay Machado Rodriguez",
+          "id": "pcq_14",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f",
+          "profile": "https://i.ibb.co/hFRmC4R/MADELINE-MACHADO.jpg"
+        },
+        {
+          "name": "Hugo Olmedo Perez",
+          "id": "pcq_15",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m",
+          "profile": "https://i.ibb.co/QfZJtDK/HUGO-OLMEDO.jpg"
+        },
+        {
+          "name": "Ivanna Chantal Rugliancich Checa",
+          "id": "pcq_16",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f",
+          "profile": "https://i.ibb.co/6rm4cct/IVANNA-RUGLIANCICH.jpg"
+        },
+        {
+          "name": "Nicole Lee",
+          "id": "pcq_17",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f",
+          "profile": "https://i.ibb.co/YtQKSrh/NICOLE-LEE.jpg"
+        },
+        {
+          "name": "Ana Rosa Gomez Batista",
+          "id": "pcq_18",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f",
+          "profile": "https://i.ibb.co/H7DXFpv/ANA-GOMEZ.jpg"
+        },
+        {
+          "name": "Alexis Galvez",
+          "id": "pcq_19",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m",
+          "profile": "https://i.ibb.co/pzfqF07/ALEXIS-GALVEZ.jpg"
+        }
+      ]
+    },
+    "AKT": {
+      "name": "Akatsuki",
+      "logo": "https://i.ibb.co/64dgkrv/Akatsuki-Logo.jpg",
+      "players": [
+        {
+          "name": "Jose Luis Paniza",
+          "id": "AKT1",
+          "profile": "https://i.ibb.co/RhxVnjX/JOSE-LUIS-PANIZA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Juan David Paniza",
+          "id": "AKT2",
+          "profile": "https://i.ibb.co/DMh0Ttm/JUAN-DAVID-PANIZA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Erick Matos",
+          "id": "AKT3",
+          "profile": "https://i.ibb.co/DLyYCdv/ERICK-MATOS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jordi Parada",
+          "id": "AKT4",
+          "profile": "https://i.ibb.co/N1ScxLG/JORDI-PARADA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jacky Rodriguez",
+          "id": "AKT5",
+          "profile": "https://i.ibb.co/n3RqB9L/JACKY-RODRIGUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Ricardo Chang",
+          "id": "AKT6",
+          "profile": "https://i.ibb.co/NpbjzgK/RICARDO-CHANG.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Elvis Arauz",
+          "id": "AKT7",
+          "profile": "https://i.ibb.co/W2qJDjN/ELVIS-ARAUZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Maria Justiniani",
+          "id": "AKT8",
+          "profile": "https://i.ibb.co/9h7YXFW/MARIA-JUSTINIANI.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Virgilio Mimbela",
+          "id": "AKT9",
+          "profile": "https://i.ibb.co/YQPVXmX/VIRGILIO-MIMBELA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Luis Alvarez",
+          "id": "AKT10",
+          "profile": "https://i.ibb.co/cLYYH3L/LUIS-ALVAREZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Daniela Diaz",
+          "id": "AKT11",
+          "profile": "https://i.ibb.co/3vS4HTL/DANIELA-DIAZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Erick Chong",
+          "id": "AKT12",
+          "profile": "https://i.ibb.co/RCGTpTX/ERICK-CHONG.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Dafnne Pimentel",
+          "id": "AKT13",
+          "profile": "https://i.ibb.co/98Cxwmz/DAFNNE-PIMENTEL.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Alicia Sánchez",
+          "id": "AKT14",
+          "profile": "https://i.ibb.co/drvLWT1/ALICIA-SANCHEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Carolina Tejada",
+          "id": "AKT15",
+          "profile": "https://i.ibb.co/SytHPmn/CAROLINA-TEJADA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        }
+      ]
+    },
+    "ACB": {
+      "name": "Alcoballics",
+      "logo": "https://i.ibb.co/qnyTm1J/Alcoballics.jpg",
+      "players": [
+        {
+          "name": "Andrés González",
+          "id": "ACB1",
+          "profile": "https://i.ibb.co/cFmtmwm/ANDRES-GONZALEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Juan Muñoz",
+          "id": "ACB2",
+          "profile": "https://i.ibb.co/cNcznBN/JUAN-MU-OZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Gizak Baltazar",
+          "id": "ACB3",
+          "profile": "https://i.ibb.co/L8CzpYV/GIZAK-BALTAZAR.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Leslie Sánchez",
+          "id": "ACB4",
+          "profile": "https://i.ibb.co/ts9pxWh/LESLIE-SANCHEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Josimar García",
+          "id": "ACB5",
+          "profile": "https://i.ibb.co/M1YMxWL/JOSIMAR-GARCIA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ángela Gaitán",
+          "id": "ACB6",
+          "profile": "https://i.ibb.co/FYF4Pyf/ANGELA-GAITAN.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Lorena González",
+          "id": "ACB7",
+          "profile": "https://i.ibb.co/mTwG8yp/LORENA-GONZALEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Enrique Marín",
+          "id": "ACB8",
+          "profile": "https://i.ibb.co/jRz3ZP5/ENRIQUE-MARIN.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Luis Isaza",
+          "id": "ACB9",
+          "profile": "https://i.ibb.co/YyYy9vL/LUIS-ISAZA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Kimberli González",
+          "id": "ACB10",
+          "profile": "https://i.ibb.co/R7KGvqb/KIMBERLI-GONZALEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Sofía Richelli",
+          "id": "ACB11",
+          "profile": "https://i.ibb.co/ZG8DK6c/SOFIA-RICHELLI.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Luis Rodriguez",
+          "id": "ACB12",
+          "profile": "https://i.ibb.co/3mWCsdJ/LUIS-RODRIGUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Diana Guerrero",
+          "id": "ACB13",
+          "profile": "https://i.ibb.co/ZT3M8fx/DIANA-GUERRERO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Miguel Moreno",
+          "id": "ACB14",
+          "profile": "https://i.ibb.co/pb2rVLn/MIGUEL-MORENO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Juan Bodden",
+          "id": "ACB15",
+          "profile": "https://i.ibb.co/RzBZd6b/JUAN-BODDEN.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Sophia Alemán",
+          "id": "ACB16",
+          "profile": "https://i.ibb.co/zhsvPJC/SOPHIA-ALEMAN.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        }
+      ]
+    },
+    "BND": {
+      "name": "Bandoleros",
+      "logo": "https://i.ibb.co/PwJRpzk/Bandoleros.jpg",
+      "players": [
+        {
+          "name": "Sebastian Laurent",
+          "id": "BND1",
+          "profile": "https://i.ibb.co/VC43Njk/SEBASTIAN-LAURENT.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Rogelio Samaniego",
+          "id": "BND2",
+          "profile": "https://i.ibb.co/82bVpnz/ROGELIO-SAMANIEGO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Divina Dominguez",
+          "id": "BND3",
+          "profile": "https://i.ibb.co/kqJLWDs/DIVINA-DOMINGUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "María Cuevas",
+          "id": "BND4",
+          "profile": "https://i.ibb.co/jhtjpdD/MARIA-CUEVAS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Ana Lucía Espino",
+          "id": "BND5",
+          "profile": "https://i.ibb.co/ySXrnVt/ANA-LUCIA-ESPINO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Joan Juliet Wing",
+          "id": "BND6",
+          "profile": "https://i.ibb.co/CWpJvmn/JOAN-WING.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Carlos Salazar",
+          "id": "BND7",
+          "profile": "https://i.ibb.co/f2Gcbg0/CARLOS-SALAZAR.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Luis Valderrama",
+          "id": "BND8",
+          "profile": "https://i.ibb.co/TqZ3HnC/LUIS-VALDERRAMA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Laura Zamora",
+          "id": "BND9",
+          "profile": "https://i.ibb.co/TwNHNrP/LAURA-ZAMORA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Marie Michelle Moreno",
+          "id": "BND10",
+          "profile": "https://i.ibb.co/jgGJ4zt/MARIA-MORENO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Kaled Fares",
+          "id": "BND11",
+          "profile": "https://i.ibb.co/PWmNgLr/KALED-FARES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "William Due",
+          "id": "BND12",
+          "profile": "https://i.ibb.co/rxBrvry/WILLIAM-DUE.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "José Andrés Barahona",
+          "id": "BND13",
+          "profile": "https://i.ibb.co/0qG5xf6/JOSE-ANDRES-BARAHONA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Edgar Antonio Sánchez",
+          "id": "BND14",
+          "profile": "https://i.ibb.co/XxpwDD0/EDGAR-SANCHEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Juan Florez",
+          "id": "BND15",
+          "profile": "https://i.ibb.co/xF8hn1q/JUAN-CARLOS-FLOREZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Damián Wing",
+          "id": "BND16",
+          "profile": "https://i.ibb.co/zVzS581/DAMIAN-WING.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Diego Jaramillo",
+          "id": "BND17",
+          "profile": "https://i.ibb.co/zS95YKR/DIEGO-JARAMILLO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Josué Joe Ramos Sandiford",
+          "id": "BND18",
+          "profile": "https://i.ibb.co/XZ1nZ0y/JOSUE-RAMOS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Paolo André Frago Marrone",
+          "id": "BND19",
+          "profile": "https://i.ibb.co/dDdwNWc/PAOLO-FRAGO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Alessandra Moscoso",
+          "id": "BND20",
+          "profile": "https://i.ibb.co/d7QwrmD/ALESSANDRA-MOSCOSO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Luis Cruz",
+          "id": "BND21",
+          "profile": "https://i.ibb.co/2628yN8/LUIS-FELIPE-CRUZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ricardo Martín",
+          "id": "BND22",
+          "profile": "https://i.ibb.co/LYxQr6Q/RICARDO-MARTIN.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        }
+      ]
+    },
+    "breaking_nuts": {
+      "name": "Breaking Nuts",
+      "logo": "https://i.ibb.co/dKVYDRJ/breaking-nuts.jpg",
+      "players": [
+        {
+          "name": "Alberto Paul",
+          "id": "brkn_nuts_1",
+          "profile": "https://i.ibb.co/cXXkfYy/ALBERTO-PAUL.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Kristel Santamaría",
+          "id": "brkn_nuts_2",
+          "profile": "https://i.ibb.co/9hpCLhv/KRISTEL-SANTAMARIA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Erick Sanchez",
+          "id": "brkn_nuts_3",
+          "profile": "https://i.ibb.co/CQySPTL/ERICK-SANCHEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Walter Clarke",
+          "id": "brkn_nuts_4",
+          "profile": "https://i.ibb.co/4gHL4G7/WALTER-COLARLE.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Katerine Avila",
+          "id": "brkn_nuts_5",
+          "profile": "https://i.ibb.co/JxB0XfL/KATERINE-AVILA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Leony Dianes",
+          "id": "brkn_nuts_6",
+          "profile": "https://i.ibb.co/Zm7wMfY/LEONY-DIANES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Alexandra Choy",
+          "id": "brkn_nuts_7",
+          "profile": "https://i.ibb.co/G90Zkw2/ALEXANDRA-CHOY.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Isaac León",
+          "id": "brkn_nuts_8",
+          "profile": "https://i.ibb.co/h82Z9Wm/ISAAC-LEON.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Gabriel Gonzalez",
+          "id": "brkn_nuts_9",
+          "profile": "https://i.ibb.co/7vmfTJx/GABRIEL-GONZALEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Diana Barcenas",
+          "id": "brkn_nuts_10",
+          "profile": "https://i.ibb.co/H2M5Zdx/DIANA-BARCENAS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Kevin Martinez",
+          "id": "brkn_nuts_11",
+          "profile": "https://i.ibb.co/GMhVFPR/KEVIN-MARTINEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Luis Berroa",
+          "id": "brkn_nuts_12",
+          "profile": "https://i.ibb.co/HqD0ffr/LUIS-BERROA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "David Smith",
+          "id": "brkn_nuts_13",
+          "profile": "https://i.ibb.co/F6CcYdh/DAVID-SMITH.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Federico Gulfo",
+          "id": "brkn_nuts_14",
+          "profile": "https://i.ibb.co/pRrfk8R/FEDERICO-GULFO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Julio Cardenas",
+          "id": "brkn_nuts_15",
+          "profile": "https://i.ibb.co/v3zYk4x/JULIO-CARDENAS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ana Sánchez",
+          "id": "brkn_nuts_16",
+          "profile": "https://i.ibb.co/K0xhRgD/ANA-SANCHEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Desire Delgado",
+          "id": "brkn_nuts_17",
+          "profile": "https://i.ibb.co/9c3XBGq/DESIRE-DELGADO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        }
+      ]
+    },
+    "buttsmashers": {
+      "name": "Buttsmashers",
+      "logo": "https://i.ibb.co/8mSVNWf/buttsmashers.jpg",
+      "players": [
+        {
+          "name": "Isaac Polanco",
+          "id": "buttsmasher_1",
+          "profile": "https://i.ibb.co/b2cNvY9/ISAAC-POLANCO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jose Pablo Ramos",
+          "id": "buttsmasher_2",
+          "profile": "https://i.ibb.co/kcTCyhq/JOSE-RAMOS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Pablo Alvarado",
+          "id": "buttsmasher_3",
+          "profile": "https://i.ibb.co/g7nfWPq/PABLO-ALVARADO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Andres Felipe Peña Salazar",
+          "id": "buttsmasher_4",
+          "profile": "https://i.ibb.co/ftLw1Rp/ANDRES-PE-A.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Eduardo Xavier Barrera",
+          "id": "buttsmasher_5",
+          "profile": "https://i.ibb.co/8g20cmH/EDUARDO-BARRERA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Celso A. Lee Chong",
+          "id": "buttsmasher_6",
+          "profile": "https://i.ibb.co/fDYHhL7/CELSO-LEE.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Socrates Andrew Rodriguez",
+          "id": "buttsmasher_7",
+          "profile": "https://i.ibb.co/q55jRbH/SOCRATES-ANDREW.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Omar Ivan Gonzalez",
+          "id": "buttsmasher_8",
+          "profile": "https://i.ibb.co/dJwG3JC/OMAR-GONZALEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Robledo Miranda",
+          "id": "buttsmasher_9",
+          "profile": "https://i.ibb.co/2dbCDG9/ROBLEDO-MIRANDA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Andres Garcia",
+          "id": "buttsmasher_10",
+          "profile": "https://i.ibb.co/NnDZWGk/ANDRES-ARCIA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ana Lucia Valencia",
+          "id": "buttsmasher_11",
+          "profile": "https://i.ibb.co/ysYJ3TW/ANA-LUCIA-VALENCIA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Ivanna Zambrano",
+          "id": "buttsmasher_12",
+          "profile": "https://i.ibb.co/mDtHKPQ/IVANNA-ZAMBRANO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Victoria Laya",
+          "id": "buttsmasher_13",
+          "profile": "https://i.ibb.co/H4J66JT/VICTORIA-LAYA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Greicy Nicole Flores",
+          "id": "buttsmasher_14",
+          "profile": "https://i.ibb.co/Dk6Mjs0/GREICY-FLORES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Ana Victoria Adellán",
+          "id": "buttsmasher_15",
+          "profile": "https://i.ibb.co/8jQMN8Q/VICTORIA-ADELLAN.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Alejandra Guerra",
+          "id": "buttsmasher_19",
+          "profile": "https://i.ibb.co/7nGSYcG/ALEJANDRA-GUERRA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Andrea Guerra",
+          "id": "buttsmasher_20",
+          "profile": "https://i.ibb.co/JrhfFvs/ANDREA-GUERRA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Sadai Escala",
+          "id": "buttsmasher_21",
+          "profile": "https://i.ibb.co/gMBNNLw/SADAI-ESCALA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Agustin Bosquez",
+          "id": "buttsmasher_22",
+          "profile": "https://i.ibb.co/3pkdNrB/AGUSTIN-BOSQUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Stefan Mead",
+          "id": "buttsmasher_23",
+          "profile": "https://i.ibb.co/N3VvdHs/STEFAN-MEAD.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        }
+      ]
+    },
+    "checkmate": {
+      "name": "Checkmate",
+      "logo": "https://i.ibb.co/gZQVqb2/CHECKMATE-new.jpg",
+      "players": [
+        {
+          "name": "Jair Cardenas",
+          "id": "checkmate_1",
+          "profile": "https://i.ibb.co/QM6L2rp/JAIR-CARDENAS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Alejandra Rodríguez",
+          "id": "checkmate_2",
+          "profile": "https://i.ibb.co/k2hsBwW/ALEJANDRA-RODRIGUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Andres García",
+          "id": "checkmate_4",
+          "profile": "https://i.ibb.co/1JtwrQr/ANDRES-GARCIA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Vivianne Henriquez",
+          "id": "checkmate_5",
+          "profile": "https://i.ibb.co/CV2jCx1/VIVIANNE-HENRIQUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Nathalie Palacio",
+          "id": "checkmate_7",
+          "profile": "https://i.ibb.co/ZXHbygd/NATHALIE-PALACIO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Augusto Guardia",
+          "id": "checkmate_8",
+          "profile": "https://i.ibb.co/Pzbw2PB/AUGUSTO-GUARDIA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Andrea Martinez",
+          "id": "checkmate_9",
+          "profile": "https://i.ibb.co/w6kzHXP/ANDREA-MARTINEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Fernando de León",
+          "id": "checkmate_10",
+          "profile": "https://i.ibb.co/QbJq70f/FERNANDO-DE-LEON.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Rafael García",
+          "id": "checkmate_11",
+          "profile": "https://i.ibb.co/q0nrYzS/RAFAEL-GARCIA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Justin Yee",
+          "id": "checkmate_12",
+          "profile": "https://i.ibb.co/SftQ5mr/JUSTIN-YEE.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Nicholas Sandoval",
+          "id": "checkmate_13",
+          "profile": "https://i.ibb.co/dQx3Bzf/NICHOLAS-SANDOVAL.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Juan Pablo Quintero",
+          "id": "checkmate_14",
+          "profile": "https://i.ibb.co/f1jkyM9/JUAN-QUINTERO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Luis Valdes",
+          "id": "checkmate_15",
+          "profile": "https://i.ibb.co/Kr3GFvW/LUIS-VALDES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Rolando Valdivia",
+          "id": "checkmate_17",
+          "profile": "https://i.ibb.co/55jRMLQ/ROLANDO-VALVIDIA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Sofia Tolato",
+          "id": "checkmate_18",
+          "profile": "https://i.ibb.co/CbjvLZm/sofia-tolato.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Gabriella Castillo",
+          "id": "checkmate_19",
+          "profile": "https://i.ibb.co/VJXnzNv/GABRIELA-CASTILLO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        }
+      ]
+    },
+    "chequepower": {
+      "name": "Cheque Power",
+      "logo": "https://i.ibb.co/z7kkfff/cheque-power.jpg",
+      "players": [
+        {
+          "name": "Juan Carlos Armijo Ortiz",
+          "id": "cheque_power_1",
+          "profile": "https://i.ibb.co/wg2HDbZ/JUAN-CARLOS-ARMIJO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Oscar Quiñones",
+          "id": "cheque_power_2",
+          "profile": "https://i.ibb.co/Q6DbY2n/OSCAR-QUIN-ONES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Margarita Asenso",
+          "id": "cheque_power_3",
+          "profile": "https://i.ibb.co/Ws7K74Y/MARGARITA-ELLIANIS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Ernesto Castillo",
+          "id": "cheque_power_4",
+          "profile": "https://i.ibb.co/5Bdmmxr/ERNESTO-CASTILLO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Camilo Carles",
+          "id": "cheque_power_5",
+          "profile": "https://i.ibb.co/jhrpWDB/CAMILO-CARLES.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Carlos Barrios",
+          "id": "cheque_power_6",
+          "profile": "https://i.ibb.co/6nhkgpx/CARLOS-BARRIOS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Roberto Arego",
+          "id": "cheque_power_7",
+          "profile": "https://i.ibb.co/YhnkDtq/ROBERTO-ABREGO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Victoria Guzman",
+          "id": "cheque_power_8",
+          "profile": "https://i.ibb.co/qJt2P5M/VICTORIA-GUZMAN.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Alejandra Garcia",
+          "id": "cheque_power_9",
+          "profile": "https://i.ibb.co/gTgFD6L/ALEJANDRA-GARCIA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Franklyn Robinson",
+          "id": "cheque_power_10",
+          "profile": "https://i.ibb.co/rtByCT6/FRANKLIN-ROBINSON.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Rosangelica Casanova",
+          "id": "cheque_power_11",
+          "profile": "https://i.ibb.co/FsmShcK/ROSANGELICA-CASANOVA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Alexandra Benaim",
+          "id": "cheque_power_12",
+          "profile": "https://i.ibb.co/0rGRzCh/ALEXANDRA-BANAIM.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Daniela Diez",
+          "id": "cheque_power_13",
+          "profile": "https://i.ibb.co/QYRyKC2/DANIELA-DIEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Lilia Mitre",
+          "id": "cheque_power_14",
+          "profile": "https://i.ibb.co/qrvWqMn/LILA-MITRE.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Lena Paola Castillero",
+          "id": "cheque_power_15",
+          "profile": "https://i.ibb.co/b5V3mFm/LENA-CASTILLERO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Sebastian Betancur",
+          "id": "cheque_power_16",
+          "profile": "https://i.ibb.co/mXHt49d/SEBASTIAN-BETHANCOURT.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        }
+      ]
+    },
+    "dmark": {
+      "name": "Dmark",
+      "logo": "https://i.ibb.co/y6tvqvT/dmark.jpg",
+      "players": [
+        {
+          "name": "Pedro Vasquez",
+          "id": "dmark_1",
+          "profile": "https://i.ibb.co/NFv4Bz0/PEDRO-VASQUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Miguel Chang",
+          "id": "dmark_2",
+          "profile": "https://i.ibb.co/r7JxZmm/MIGUEL-CHANG.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ernesto Chambers",
+          "id": "dmark_3",
+          "profile": "https://i.ibb.co/T4GkCT9/ERNESTO-CHAMBERS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Andres Urrieta Caparrosa",
+          "id": "dmark_4",
+          "profile": "https://i.ibb.co/RywdQqQ/ANDRES-URRIETA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Angel Santos",
+          "id": "dmark_5",
+          "profile": "https://i.ibb.co/sqP05RR/ANGEL-SANTOS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jean Carlos Miranda Zarate",
+          "id": "dmark_6",
+          "profile": "https://i.ibb.co/FYC87ck/JEAN-MIRANDA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Leonardo Sanchez Cascante",
+          "id": "dmark_7",
+          "profile": "https://i.ibb.co/qr9c1sb/LEONARD-SANCHEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Franklin Pinto",
+          "id": "dmark_8",
+          "profile": "https://i.ibb.co/1swvCnm/FRANKLIN-PINTO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Tiffany Mcpherson",
+          "id": "dmark_9",
+          "profile": "https://i.ibb.co/m8M3PrS/TIFFANY-MCPHERSON.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Maria G. Frias",
+          "id": "dmark_10",
+          "profile": "https://i.ibb.co/LC9nN0h/MARIA-FRIAS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Melissa Yisel Torres Gonzalez",
+          "id": "dmark_11",
+          "profile": "https://i.ibb.co/61gCFrf/MELISSA-TORRES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Lourdes Gonzalez",
+          "id": "dmark_12",
+          "profile": "https://i.ibb.co/KqDjGs2/LOURDES-GONZLEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        }
+      ]
+    },
+    "fireballs": {
+      "name": "Fireballs",
+      "logo": "https://i.ibb.co/SnHCjJ9/fireballs.jpg",
+      "players": [
+        {
+          "name": "Eduardo Herrera",
+          "id": "fireball_1",
+          "profile": "https://i.ibb.co/pKTYZMM/EDUARDO-HERRERA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Christian Stanziola",
+          "id": "fireball_2",
+          "profile": "https://i.ibb.co/CnvQm33/CHRISTIAN-STANZIOLA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Vaungh Husband",
+          "id": "fireball_3",
+          "profile": "https://i.ibb.co/BwzxFjG/VAUGHN-HUSBAND.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Carlos Pino",
+          "id": "fireball_5",
+          "profile": "https://i.ibb.co/42CKzHq/CARLOS-PINO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ricardo Del Cid",
+          "id": "fireball_6",
+          "profile": "https://i.ibb.co/f1PPvcJ/RICARDO-DEL-CID.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Christian Piper",
+          "id": "fireball_7",
+          "profile": "https://i.ibb.co/c6RyX6x/CHRISTIAN-PIPER.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Anna Davila",
+          "id": "fireball_10",
+          "profile": "https://i.ibb.co/c6sm0TG/ANNA-DAVILA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Stephanie Gomez",
+          "id": "fireball_11",
+          "profile": "https://i.ibb.co/NyQYLKN/STEPHANIE-GOMEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Gisell Diaz",
+          "id": "fireball_12",
+          "profile": "https://i.ibb.co/716LBcX/GISELL-DIAZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Julissa Delgado",
+          "id": "fireball_13",
+          "profile": "https://i.ibb.co/GxnRH2W/JULISSA-DELGADO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Milagros Ruiz",
+          "id": "fireball_14",
+          "profile": "https://i.ibb.co/6wkCDqF/MILAGROS-RUIZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Kristel Vega",
+          "id": "fireball_16",
+          "profile": "https://i.ibb.co/jhd3Yhz/KRISTEL-VEGA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Margot Ruiz",
+          "id": "fireball_17",
+          "profile": "https://i.ibb.co/ZBd23J9/MARGOT-RUIZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Alvaro Vargas",
+          "id": "fireball_18",
+          "profile": "https://i.ibb.co/YcL8fT9/ALVARO-VARGAS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Luis Romero",
+          "id": "fireball_19",
+          "profile": "https://i.ibb.co/1LmLSzT/LUIS-ROMERO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        }
+      ]
+    },
+    "homerun_kickers": {
+      "name": "Homerun Kickers",
+      "logo": "https://i.ibb.co/hf002fd/homerun-kickers.jpg",
+      "players": [
+        {
+          "name": "Austin Axel Henry Scotland",
+          "id": "hrk_1",
+          "profile": "https://i.ibb.co/pQq0sTG/AUSTIN-HENRY.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Freilys Jenire Mujica Alfonzo",
+          "id": "hrk_2",
+          "profile": "https://i.ibb.co/0ZCctjb/FREILYS-MUJICA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Katherine Antonios",
+          "id": "hrk_3",
+          "profile": "https://i.ibb.co/LQL501B/KATHERINE-ANTONIOS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Joel Mauricio Vargas Arauz",
+          "id": "hrk_4",
+          "profile": "https://i.ibb.co/6wdRwh5/JOEL-VARGAS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Marcelo Sebastian Gallardo",
+          "id": "hrk_5",
+          "profile": "https://i.ibb.co/WsJjpQs/MARCELO-GALLARDO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Mario Waight",
+          "id": "hrk_6",
+          "profile": "https://i.ibb.co/xJzJF9t/MARIO-WAIGHT.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Angel Alejandro Lemus Escobar",
+          "id": "hrk_7",
+          "profile": "https://i.ibb.co/JKqfj3J/ANGEL-LEMUS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Luis Casis",
+          "id": "hrk_8",
+          "profile": "https://i.ibb.co/KWDH3kT/LUIS-CASIS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Sthefanie Roxxane Lemus Escobar",
+          "id": "hrk_9",
+          "profile": "https://i.ibb.co/vv7JxsZ/STHEFANIE-LEMUS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Jonathan Polo",
+          "id": "hrk_10",
+          "profile": "https://i.ibb.co/h8FpMvR/JONATHAN-POLO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Elena Aurora Silvera Cedeño",
+          "id": "hrk_11",
+          "profile": "https://i.ibb.co/Y7NPYtS/ELENA-SILVERA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Doralys Sanjur",
+          "id": "hrk_12",
+          "profile": "https://i.ibb.co/SrYJpNP/DORALYS-SANJUR.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Guillermo Wilburn",
+          "id": "hrk_13",
+          "profile": "https://i.ibb.co/kQkwBRr/GUILLERMO-WILBURN.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Cesar Antonio Aguilera Setka",
+          "id": "hrk_14",
+          "profile": "https://i.ibb.co/vPNLKrr/CESAR-AGUILERA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Enmanuel Lopez",
+          "id": "hrk_15",
+          "profile": "https://i.ibb.co/RghDRN1/ENMANUEL-LOPEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Juan Carlos Moreno Chavez",
+          "id": "hrk_16",
+          "profile": "https://i.ibb.co/59q10Zr/JUAN-MORENO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Maridelis Michelle Campos Segundo",
+          "id": "hrk_17",
+          "profile": "https://i.ibb.co/ryCpS1M/MARIDELIS-CAMPOS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Juan Carlos Sanchez Medianero",
+          "id": "hrk_18",
+          "profile": "https://i.ibb.co/1dtNx4N/JUAN-SANCHEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Nazaren Ines Hernandez De Leon",
+          "id": "hrk_19",
+          "profile": "https://i.ibb.co/1KY4Zt0/NAZAREN-HERNANDEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Mariam Mausely Solis Romero",
+          "id": "hrk_20",
+          "profile": "https://i.ibb.co/C605RfJ/MARIAM-SOLIS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "José Alfredo Montenegro Casis",
+          "id": "hrk_21",
+          "profile": "https://i.ibb.co/mGjknLx/JOSE-MONTENEGRO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Diana Lia Briones Barragán",
+          "id": "hrk_22",
+          "profile": "https://i.ibb.co/84f0dmx/DIANA-BRIONES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Derek Iker Briones Barragán",
+          "id": "hrk_23",
+          "profile": "https://i.ibb.co/tCTrNsL/DEREK-BRIONES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        }
+      ]
+    },
+    "impertinentes": {
+      "name": "Impertinentes",
+      "logo": "https://i.ibb.co/xmrHcM6/impertinentes.jpg",
+      "players": [
+        {
+          "name": "Gilberto Ruiloba",
+          "id": "impertinente_1",
+          "profile": "https://i.ibb.co/7gf8hXR/GILBERTO-RUILOBA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Kevyn González",
+          "id": "impertinente_2",
+          "profile": "https://i.ibb.co/ZfH204V/KEVYN-GONZALEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Pablo Javier Mendoza",
+          "id": "impertinente_3",
+          "profile": "https://i.ibb.co/kJqwsfV/PABLO-MENDONZA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Meng Sam",
+          "id": "impertinente_4",
+          "profile": "https://i.ibb.co/5WRtSwW/MENG-SAM.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "César Abrego",
+          "id": "impertinente_5",
+          "profile": "https://i.ibb.co/DzVF7fc/CESAR-ABREGO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Julia Li Flores",
+          "id": "impertinente_6",
+          "profile": "https://i.ibb.co/vY90Rcz/JULIA-LI.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Jorge Vaccaro",
+          "id": "impertinente_7",
+          "profile": "https://i.ibb.co/6NvQdhs/JORGE-VACCARO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Diomedes Stultz",
+          "id": "impertinente_8",
+          "profile": "https://i.ibb.co/Cn6X2px/DIOMEDES-STULTZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Mónica Mancini",
+          "id": "impertinente_9",
+          "profile": "https://i.ibb.co/8x40VZD/MONICA-MANCINI.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Ricardo Escobar",
+          "id": "impertinente_10",
+          "profile": "https://i.ibb.co/nRgG5jc/RICARDO-ESCOBAR.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Astrid Alana Liñán",
+          "id": "impertinente_11",
+          "profile": "https://i.ibb.co/hZSBvnp/ASTRID-LIN-AN.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Jhor William Ruiz",
+          "id": "impertinente_12",
+          "profile": "https://i.ibb.co/fCTjvjC/WILLIAM-RUIZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ricardo Carrera",
+          "id": "impertinente_13",
+          "profile": "https://i.ibb.co/L6k43QD/RICARDO-CARRERA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Sara Patiño Castillo",
+          "id": "impertinente_14",
+          "profile": "https://i.ibb.co/qjyfxP7/SARA-PATIN-O.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Luis Eduardo Alfano castillo",
+          "id": "impertinente_15",
+          "profile": "https://i.ibb.co/RDKwXjS/LUIS-ALFANO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Grace Morales",
+          "id": "impertinente_16",
+          "profile": "https://i.ibb.co/LJGmn0Y/GRACE-MORALES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Paola Herrera",
+          "id": "impertinente_17",
+          "profile": "https://i.ibb.co/gz7BLZD/PAOLA-HERRERA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Maria Bellido",
+          "id": "impertinente_18",
+          "profile": "https://i.ibb.co/DtRkqXw/MARIA-BELLIDO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Alexandra Acevedo",
+          "id": "impertinente_19",
+          "profile": "https://i.ibb.co/KVnTNv5/ALEXANDRA-ACEVEDO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Julio Rios",
+          "id": "impertinente_20",
+          "profile": "https://i.ibb.co/G7XPDD2/JULIO-RIOS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        }
+      ]
+    },
+    "kickstrikers": {
+      "name": "Kickstrickers",
+      "logo": "https://i.ibb.co/YX6WC4P/kickstrikers.jpg",
+      "players": [
+        {
+          "name": "Gladys Del Cid",
+          "id": "kickstriker_1",
+          "profile": "https://i.ibb.co/8x48bJQ/GLADYS-DEL-CID.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Kathy Degracia",
+          "id": "kickstriker_2",
+          "profile": "https://i.ibb.co/ssRWR77/KATHY-DE-GRACIA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Eduardo Quintero",
+          "id": "kickstriker_3",
+          "profile": "https://i.ibb.co/cNZQNHT/EDUARDO-QUINTERO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Rafael Rodríguez",
+          "id": "kickstriker_4",
+          "profile": "https://i.ibb.co/RjGMkTf/RAFAEL-RODRIGUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Saidy Mitre",
+          "id": "kickstriker_5",
+          "profile": "https://i.ibb.co/SfBx8q4/SAIDY-MITRE.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Ismael Caballero",
+          "id": "kickstriker_6",
+          "profile": "https://i.ibb.co/Ksqr6ht/ISMAEL-CABALLERO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Samantha Blanco",
+          "id": "kickstriker_7",
+          "profile": "https://i.ibb.co/khbdRgC/SAMANTHA-BLANCO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Stephanie Blanco",
+          "id": "kickstriker_8",
+          "profile": "https://i.ibb.co/bgw9dWW/STEPHANIE-BLANCO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Jhon Jairo Ríos",
+          "id": "kickstriker_9",
+          "profile": "https://i.ibb.co/7Np2CPs/JHON-JAIRO-RIOS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Alfonso Palma",
+          "id": "kickstriker_10",
+          "profile": "https://i.ibb.co/DkwhbwD/ALFONSO-PALMA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Arturo Recuero",
+          "id": "kickstriker_11",
+          "profile": "https://i.ibb.co/fpNjNvq/ARTURO-RECUERO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Juan Manuel Vásquez",
+          "id": "kickstriker_12",
+          "profile": "https://i.ibb.co/WDbfQqC/JUAN-VASQUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Martín Candanedo",
+          "id": "kickstriker_13",
+          "profile": "https://i.ibb.co/wztmSsv/MARTIN-CANDANEDO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "César Ulloa",
+          "id": "kickstriker_14",
+          "profile": "https://i.ibb.co/TL6Rnc4/CESAR-VASQUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Michelle Hinestroza",
+          "id": "kickstriker_16",
+          "profile": "https://i.ibb.co/4d46tzc/MICHELLE-HINESTROZA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Andrea Vega",
+          "id": "kickstriker_17",
+          "profile": "https://i.ibb.co/q7WbkSy/ANDREA-VEGA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Carlos Real",
+          "id": "kickstriker_18",
+          "profile": "https://i.ibb.co/VpGgXDc/CARLOS-REAL.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Luis Guerra",
+          "id": "kickstriker_19",
+          "profile": "https://i.ibb.co/8461vZY/LUIS-GUERRA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Giuletta Brugiatti",
+          "id": "kickstriker_20",
+          "profile": "https://i.ibb.co/d7NkW5F/GIULIETTA-BRUGIATI.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        }
+      ]
+    },
+    "tribu": {
+      "name": "La Tribu",
+      "logo": "https://i.ibb.co/L5MNBNP/la-tribu.jpg",
+      "players": [
+        {
+          "name": "Ameth Amores ",
+          "id": "tribu_1",
+          "profile": "https://i.ibb.co/qFfvLGb/AMETH-AMORES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ana Felipe",
+          "id": "tribu_2",
+          "profile": "https://i.ibb.co/tswWgB9/ANA-FELIPE.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Eddie Castellanos ",
+          "id": "tribu_6",
+          "profile": "https://i.ibb.co/gDrz8CF/EDDIE-CASTELLANOS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Idair Cordoba ",
+          "id": "tribu_7",
+          "profile": "https://i.ibb.co/q0n2tqL/IDAIR-CORDOBA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "José Pinnock ",
+          "id": "tribu_8",
+          "profile": "https://i.ibb.co/YZtPzbq/JOSE-PINNOCK.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Paola Saldaña",
+          "id": "tribu_9",
+          "profile": "https://i.ibb.co/Sy5nW5v/PAOLA-SALDAN-A.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Oscar Alvarez ",
+          "id": "tribu_10",
+          "profile": "https://i.ibb.co/NTBsMMW/OSCAR-ALVAREZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ricardo Rodríguez",
+          "id": "tribu_11",
+          "profile": "https://i.ibb.co/9Z0Xwq0/RICARDO-RODRIGUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ligia Sanchiz",
+          "id": "tribu_14",
+          "profile": "https://i.ibb.co/wJ9LQfS/LIGIA-SANCHIZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Isaac Muñoz",
+          "id": "tribu_15",
+          "profile": "https://i.ibb.co/0JjGj2B/ISAAC-MUN-OZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Luis Rodríguez",
+          "id": "tribu_16",
+          "profile": "https://i.ibb.co/ypXsP5N/LUIS-RODRIGUEZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jonathan Rodriguez",
+          "id": "tribu_17",
+          "profile": "https://i.ibb.co/wLvTb94/JONATHAN-RODRIGUEZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Yetzibel Yearwood",
+          "id": "tribu_18",
+          "profile": "https://i.ibb.co/m67wJwW/YETZIBEL-YEARWOOD.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Osiris Castillo",
+          "id": "tribu_19",
+          "profile": "https://i.ibb.co/TRzQX0f/OSIRIS-CASTILLO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Wanda Castillo",
+          "id": "tribu_20",
+          "profile": "https://i.ibb.co/nm5ZJ96/WANDA-CASTILLO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Viviana Cordoba",
+          "id": "tribu_21",
+          "profile": "https://i.ibb.co/q9NVg60/viviana-cordoba.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Francisco Cho",
+          "id": "tribu_22",
+          "profile": "https://i.ibb.co/9GgtkLR/francisco-cho.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Elizabeth Lopez",
+          "id": "tribu_23",
+          "profile": "https://i.ibb.co/DGhH3kK/elizabeth-lopez.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Maria Camaño",
+          "id": "tribu_24",
+          "profile": "https://i.ibb.co/C0nxMW2/MAR-A-CAMA-O.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Jean Pierre",
+          "id": "tribu_25",
+          "profile": "https://i.ibb.co/yRnhsRq/JEAN-PIERRE.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        }
+      ]
+    },
+    "livity": {
+      "name": "Livity",
+      "logo": "https://i.ibb.co/xCKRB6M/livity.jpg",
+      "players": [
+        {
+          "name": "Daniel Giron",
+          "id": "livity_1",
+          "profile": "https://i.ibb.co/NpyNYtk/DANIEL-GIRON.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Benigno Vargas",
+          "id": "livity_2",
+          "profile": "https://i.ibb.co/j4LQtPq/BENIGNO-VARGAS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Aurelio Correa",
+          "id": "livity_3",
+          "profile": "https://i.ibb.co/CBZ0pC7/AURELIO-CORREA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Juan Cornejo",
+          "id": "livity_4",
+          "profile": "https://i.ibb.co/9pWsKQ4/JUAN-CORNEJO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Arcadio Santos",
+          "id": "livity_5",
+          "profile": "https://i.ibb.co/s1098B8/ARCADIO-SANTOS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jean Marusick",
+          "id": "livity_6",
+          "profile": "https://i.ibb.co/tZm7jwS/JEAN-MARUSICK.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Randall Piper",
+          "id": "livity_7",
+          "profile": "https://i.ibb.co/5v8QrdV/RANDALL-PIPER.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ariel Camargo",
+          "id": "livity_8",
+          "profile": "https://i.ibb.co/n6dKPpv/ARIEL-CAMARGO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ricardo Echeverria",
+          "id": "livity_9",
+          "profile": "https://i.ibb.co/4SFZ5J1/RICARDO-ECHEVERRIA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Abdiel Puello",
+          "id": "livity_10",
+          "profile": "https://i.ibb.co/w6VzsrC/ABDIEL-PUELLO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Miguel Guerra",
+          "id": "livity_11",
+          "profile": "https://i.ibb.co/1M4GR9x/MIGUEL-GUERRA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Diego Peralta",
+          "id": "livity_12",
+          "profile": "https://i.ibb.co/Vgj7LkB/DIEGO-PERALTA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Guillermo Sanjur",
+          "id": "livity_13",
+          "profile": "https://i.ibb.co/kSFvWTx/GUILLERMO-SANJUR.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Daniela Ventura",
+          "id": "livity_14",
+          "profile": "https://i.ibb.co/YcHNFpb/DANIELA-VENTURA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Maria Carrizo",
+          "id": "livity_15",
+          "profile": "https://i.ibb.co/X8M0SdY/MARIA-CARRIZO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Catherine Castillo",
+          "id": "livity_16",
+          "profile": "https://i.ibb.co/M7t0DTh/CATHERINE-CASTILLO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Maria Torres",
+          "id": "livity_17",
+          "profile": "https://i.ibb.co/KLmqYZg/MARIA-TORRES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Liz Corbett",
+          "id": "livity_18",
+          "profile": "https://i.ibb.co/jDvn7D6/LIZ-CORBETT.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Masielys Lasso",
+          "id": "livity_19",
+          "profile": "https://i.ibb.co/b1tRnHd/MASIELYS-LASSO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Ashley Melgar",
+          "id": "livity_20",
+          "profile": "https://i.ibb.co/fCZmc9P/ASHLEY-MELGAR.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        }
+      ]
+    },
+    "looney_toons": {
+      "name": "Looney Tunes",
+      "logo": "https://i.ibb.co/9pJTp9Q/looney-toons.jpg",
+      "players": [
+        {
+          "name": "Francisco Pinzón",
+          "id": "looney_1",
+          "profile": "https://i.ibb.co/wgVTH3H/FRANCISCO-PINZON.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Christopher Leong",
+          "id": "looney_2",
+          "profile": "https://i.ibb.co/f85JmnN/CHRISTOPHER-LEONG.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Verónica Herrera",
+          "id": "looney_3",
+          "profile": "https://i.ibb.co/DDMCPW1/VERONICA-HERRERA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Isabella Batista",
+          "id": "looney_4",
+          "profile": "https://i.ibb.co/txLGjsT/ISABELLA-BATISTA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Ricardo López",
+          "id": "looney_5",
+          "profile": "https://i.ibb.co/tHSw3bG/RICARDO-LOPEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Michael Núñez",
+          "id": "looney_6",
+          "profile": "https://i.ibb.co/WBZL3vk/MICHAEL-NUN-EZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Marienelle Martínez",
+          "id": "looney_7",
+          "profile": "https://i.ibb.co/k5J36Dx/MARIENELLE-MARTINEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Andrea Villalba",
+          "id": "looney_8",
+          "profile": "https://i.ibb.co/Dgr3rYD/ANDREA-VILLALBA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Rafael Bardayán",
+          "id": "looney_9",
+          "profile": "https://i.ibb.co/wRPjS56/RAFAEL-BARDAYAN.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Yanitza Saavedra",
+          "id": "looney_10",
+          "profile": "https://i.ibb.co/pLD2KY6/YANITZA-SAAVEDRA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Carlos Campos",
+          "id": "looney_11",
+          "profile": "https://i.ibb.co/hXtX5rx/CARLOS-CAMPOS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Rodrigo Morales",
+          "id": "looney_13",
+          "profile": "https://i.ibb.co/DGX2C4f/RODRIGO-MORALES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ricardo Young",
+          "id": "looney_14",
+          "profile": "https://i.ibb.co/TKJNmjt/RICARDO-YOUNG.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Roberto Villalobos",
+          "id": "looney_15",
+          "profile": "https://i.ibb.co/sV9gwYc/ROBERTO-VILLALOBOS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Allison Piper",
+          "id": "looney_18",
+          "profile": "https://i.ibb.co/CzPq7Kg/ALLISON-PIPER.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Kevin Rodríguez",
+          "id": "looney_19",
+          "profile": "https://i.ibb.co/qrfJTBr/KEVIN-RODRIGUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Andrés Arcia",
+          "id": "looney_20",
+          "profile": "https://i.ibb.co/RNPfRz7/ANDRES-ARCIA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        }
+      ]
+    },
+    "toca_y_muere": {
+      "name": "Toca y Muere",
+      "logo": "https://i.ibb.co/fGQ4Nk6/toca-y-muere.jpg",
+      "players": [
+        {
+          "name": "Emanuel Rojas",
+          "id": "tym_1",
+          "profile": "https://i.ibb.co/wh7QzLB/EMANUEL-ROJAS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Adriana Sima",
+          "id": "tym_2",
+          "profile": "https://i.ibb.co/c3tK5tZ/ADRIANA-SIMA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Antonio Bruno",
+          "id": "tym_3",
+          "profile": "https://i.ibb.co/RbdHS3y/ANTONIO-BRUNO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Maria Gabriela Céspedes",
+          "id": "tym_4",
+          "profile": "https://i.ibb.co/wJSyB5Z/MARIA-CESPEDES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Andrea Iemma",
+          "id": "tym_5",
+          "profile": "https://i.ibb.co/WBTzSNn/ANDREA-LEMMA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Andrés Bravo",
+          "id": "tym_6",
+          "profile": "https://i.ibb.co/R989YGS/ANDRES-BRAVO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Fernando Castillo",
+          "id": "tym_7",
+          "profile": "https://i.ibb.co/yWwwMym/FERNANDO-CASTILLO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Raul Olmos",
+          "id": "tym_8",
+          "profile": "https://i.ibb.co/RHhdQ09/RAUL-OLMOS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Carmelo Donato",
+          "id": "tym_9",
+          "profile": "https://i.ibb.co/b1ZBjzR/CARMELO-DONATO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Alyssa Espinosa",
+          "id": "tym_10",
+          "profile": "https://i.ibb.co/WBkTnK6/ALYSSA-ESPINOSA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Andrea Mulgrave",
+          "id": "tym_11",
+          "profile": "https://i.ibb.co/fQqc3k1/ANDREA-MULGRAVE.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Marcos Rueda",
+          "id": "tym_12",
+          "profile": "https://i.ibb.co/wRHt3Vv/MARCOS-FIDEL.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Wendell Watson",
+          "id": "tym_13",
+          "profile": "https://i.ibb.co/MhDwR1r/WENDELL-WATSON.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Valeria Moreno",
+          "id": "tym_14",
+          "profile": "https://i.ibb.co/s1h4MDw/VALERIA-MORENO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Noriel González",
+          "id": "tym_15",
+          "profile": "https://i.ibb.co/ns9B2fM/NORIEL-GONZALEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Gil Valdés",
+          "id": "tym_16",
+          "profile": "https://i.ibb.co/LYhF9yT/GIL-VALDES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Anjali Cobham",
+          "id": "tym_17",
+          "profile": "https://i.ibb.co/LYj8NJH/ANJALI-COBHAM.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Andrea Marrone",
+          "id": "tym_18",
+          "profile": "https://i.ibb.co/4d1pWKF/ANDREA-MARRONE.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Paúl Solís",
+          "id": "tym_19",
+          "profile": "https://i.ibb.co/wr1NsX2/paul-solis.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        }
+      ]
+    },
+    "todxs_mienten": {
+      "name": "Tod@s Mienten",
+      "logo": "https://i.ibb.co/1sC4bLv/todxs-mienten.jpg",
+      "players": [
+        {
+          "name": "Jaime Guerra",
+          "id": "mentiroso_1",
+          "profile": "https://i.ibb.co/RYSRmgn/JAIME-GUERRA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Cristobal Koo",
+          "id": "mentiroso_2",
+          "profile": "https://i.ibb.co/fnTSxdj/CRISTOLBAL-KOO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Giulianna Donnatti",
+          "id": "mentiroso_3",
+          "profile": "https://i.ibb.co/nL9MHLb/GIULIANNA-DONATTI.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Lucith Sanjur",
+          "id": "mentiroso_4",
+          "profile": "https://i.ibb.co/kx1jgYG/LUCITH-SANJUR.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Brithanie Solis",
+          "id": "mentiroso_5",
+          "profile": "https://i.ibb.co/jDzVvg0/BRITHANIE-SOLIS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Javier Salado",
+          "id": "mentiroso_6",
+          "profile": "https://i.ibb.co/8D41Hvz/JAVIER-SALADO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Carlly Gutiérrez",
+          "id": "mentiroso_7",
+          "profile": "https://i.ibb.co/2qPDx1h/CARLLY-GUTIERREZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Jose Batista",
+          "id": "mentiroso_8",
+          "profile": "https://i.ibb.co/3rstrDp/JOSE-BATISTA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Sasha Nikyta",
+          "id": "mentiroso_9",
+          "profile": "https://i.ibb.co/xFkknZP/SASHA-NIKYTA-KAM.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Erick Moreno",
+          "id": "mentiroso_10",
+          "profile": "https://i.ibb.co/0htymmf/ERICK-MORENO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ernesto Koo",
+          "id": "mentiroso_11",
+          "profile": "https://i.ibb.co/N70GpDw/ERNESTO-KOO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Geovanni Ottey",
+          "id": "mentiroso_12",
+          "profile": "https://i.ibb.co/NTkf5Yq/GIOVANNI-OTTEY.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Adriana Stephens",
+          "id": "mentiroso_13",
+          "profile": "https://i.ibb.co/M89bGm7/ADRIANA-STEPHENS.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Ricardo Vásquez",
+          "id": "mentiroso_14",
+          "profile": "https://i.ibb.co/nPZR87j/RICARDO-VASQUEZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Josh Avecilla",
+          "id": "mentiroso_15",
+          "profile": "https://i.ibb.co/GdNTGwG/JOSH-AVECILLA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Leandra Dixon",
+          "id": "mentiroso_16",
+          "profile": "https://i.ibb.co/z5WkcBJ/LEANDRA-DIXON.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Juan David Cano",
+          "id": "mentiroso_17",
+          "profile": "https://i.ibb.co/9y2BccT/JUAN-CANO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        }
+      ]
+    },
+    "toros": {
+      "name": "Toros de Wall St.",
+      "logo": "https://i.ibb.co/FW32J5m/toros-de-wall-street.jpg",
+      "players": [
+        {
+          "name": "Ramón Corcó",
+          "id": "toro_1",
+          "profile": "https://i.ibb.co/sWYXsRy/RAMON-CORCO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Carlos Grifo",
+          "id": "toro_2",
+          "profile": "https://i.ibb.co/MP8jpGG/CARLOS-GRIFO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Alexandra Aizprua",
+          "id": "toro_3",
+          "profile": "https://i.ibb.co/JmG95zG/ALEXANDRA-AIZPRUA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Nicole Perez",
+          "id": "toro_4",
+          "profile": "https://i.ibb.co/tZXmZSy/NICOLE-PEREZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Jose Victoria",
+          "id": "toro_5",
+          "profile": "https://i.ibb.co/zG3KxZK/JOSE-VICTORIA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ale Amaya",
+          "id": "toro_6",
+          "profile": "https://i.ibb.co/HHqLbr4/ALESSANDRA-AMAYA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Valerie Bernal",
+          "id": "toro_7",
+          "profile": "https://i.ibb.co/VtNgNpp/VALERIE-BERNAL.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Valeria Alessandria",
+          "id": "toro_8",
+          "profile": "https://i.ibb.co/TmjRD1y/VALERIA-ALESSANDRIA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Miguel Mayo",
+          "id": "toro_9",
+          "profile": "https://i.ibb.co/H4FYcPL/MIGUEL-MAYO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Johanna Robinson",
+          "id": "toro_10",
+          "profile": "https://i.ibb.co/DprgJqb/JOHANNA-ROBINSON.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Andre de Leon",
+          "id": "toro_11",
+          "profile": "https://i.ibb.co/JHtSD53/ANDRE-DE-LEON.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Rafael Aleman",
+          "id": "toro_12",
+          "profile": "https://i.ibb.co/P1d33f1/RAFAEL-ALEMAN.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Agustin Cela",
+          "id": "toro_13",
+          "profile": "https://i.ibb.co/KVwPpX5/AGUSTIN-CELA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jose Manuel Fabrega",
+          "id": "toro_14",
+          "profile": "https://i.ibb.co/Gs2jh3t/JOSE-FABREGA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Juan Diego Samudio",
+          "id": "toro_15",
+          "profile": "https://i.ibb.co/FJ7z0Z6/JUAN-SAMUDIO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Joaquin Corcó",
+          "id": "toro_16",
+          "profile": "https://i.ibb.co/K9BXQ0G/JOAQUIN-CORCO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        }
+      ]
+    },
+    "troyanos": {
+      "name": "Troyanos",
+      "logo": "https://i.ibb.co/t2gNVmr/troyanos.jpg",
+      "players": [
+        {
+          "name": "Genesis Carmona",
+          "id": "troyano_1",
+          "profile": "https://i.ibb.co/D4xWtCC/GENESIS-CARMONA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Emiro Borges",
+          "id": "troyano_2",
+          "profile": "https://i.ibb.co/gd0hw3n/EMIRO-BORGES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Roy Cardenas",
+          "id": "troyano_3",
+          "profile": "https://i.ibb.co/Nj20KGr/ROY-CARDENAS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Neirmar Rodriguez",
+          "id": "troyano_4",
+          "profile": "https://i.ibb.co/0h7qGyy/NEIRMAR-RODRIGUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Ileana Vasquez",
+          "id": "troyano_5",
+          "profile": "https://i.ibb.co/2MrdhzH/ILEANA-VASQUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Stephany Arcia",
+          "id": "troyano_6",
+          "profile": "https://i.ibb.co/ZXVwkqk/STEPHANY-ARCIA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Marcos Guzman",
+          "id": "troyano_7",
+          "profile": "https://i.ibb.co/DY5GnSx/MARCOS-GUZMAN.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Yanluis Mendoza",
+          "id": "troyano_9",
+          "profile": "https://i.ibb.co/3yZG6r1/YANLUIS-MENDONZA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Lander Hung",
+          "id": "troyano_10",
+          "profile": "https://i.ibb.co/fMrkzxF/LANDER-HUNG.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Leninyer Gomez",
+          "id": "troyano_11",
+          "profile": "https://i.ibb.co/1ZxVWfF/LENINYER-GOMEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Gabriela Herrera",
+          "id": "troyano_12",
+          "profile": "https://i.ibb.co/r6TRqZZ/GABRIELA-HERRERA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Francisco Hernandez",
+          "id": "troyano_13",
+          "profile": "https://i.ibb.co/Q70HMxK/FRANCISCO-HERNANDEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Dixon Acosta",
+          "id": "troyano_14",
+          "profile": "https://i.ibb.co/SrjLRzv/DIXON-ACOSTA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jeanlenys Gomez",
+          "id": "troyano_15",
+          "profile": "https://i.ibb.co/nM9qbzP/JEANLENYS-GOMEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Selene Cuenca",
+          "id": "troyano_16",
+          "profile": "https://i.ibb.co/QNCD1FT/SELENE-CUENCA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Jose de Leon",
+          "id": "troyano_17",
+          "profile": "https://i.ibb.co/ZxNtJm4/JOSE-DE-LEON.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        }
+      ]
+    },
+    "wwarriors": {
+      "name": "West Warriors",
+      "logo": "https://i.ibb.co/XJ2tqYp/west-warriors.jpg",
+      "players": [
+        {
+          "name": "David Josue Gomez Aguilar",
+          "id": "wwarrior_1",
+          "profile": "https://i.ibb.co/rG63XMJ/DAVID-GOMEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jose Rosas",
+          "id": "wwarrior_2",
+          "profile": "https://i.ibb.co/NrbngY7/JOSE-ROSAS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Katherine Nicole Santamaria Mitre",
+          "id": "wwarrior_3",
+          "profile": "https://i.ibb.co/yVnfJp4/KATHERINE-SANTAMARIA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Manuel De Jesus Acuña Castro",
+          "id": "wwarrior_4",
+          "profile": "https://i.ibb.co/khhQWFJ/MANUEL-ACUN-A.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Tabatha Gabrielle Bustamante Borden",
+          "id": "wwarrior_5",
+          "profile": "https://i.ibb.co/ZYYvkV6/TABATHA-BUSTAMANTE.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Jordy James Flores Troya",
+          "id": "wwarrior_6",
+          "profile": "https://i.ibb.co/8DMkXPp/JORDY-FLORES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Maria Cristina Ching Navas",
+          "id": "wwarrior_7",
+          "profile": "https://i.ibb.co/F3dtky2/MARIA-CHING.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Daniel Andre Santos",
+          "id": "wwarrior_8",
+          "profile": "https://i.ibb.co/KrZhSKj/DANIEL-SANTOS.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ariel De Asis Diaz",
+          "id": "wwarrior_9",
+          "profile": "https://i.ibb.co/g9dgLjF/ARIEL-DIAZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ashlee Michel Mclean",
+          "id": "wwarrior_10",
+          "profile": "https://i.ibb.co/F0kBC2B/ASHLEE-MCLEAN.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Francisco Javier Sanchez Olaya",
+          "id": "wwarrior_11",
+          "profile": "https://i.ibb.co/w6Y4HYp/FRANCISCO-JAVIER.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Hilary Anays Batista",
+          "id": "wwarrior_12",
+          "profile": "https://i.ibb.co/3B0RGmB/HILLARY-BATISTA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Johel Adames",
+          "id": "wwarrior_13",
+          "profile": "https://i.ibb.co/2yxNVtr/JOHELL-ADAMES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Cesar Augusto Rodriguez Canto",
+          "id": "wwarrior_14",
+          "profile": "https://i.ibb.co/k2HKNQJ/CESAR-RODRIGUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Rolando Andres Monterrey Guerra",
+          "id": "wwarrior_15",
+          "profile": "https://i.ibb.co/MSvS0bx/ROLANDO-MONTERREY.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Eicker Joan Castillo Lasso",
+          "id": "wwarrior_16",
+          "profile": "https://i.ibb.co/H73sD5h/EICKER-CASTILLO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jorge Paez",
+          "id": "wwarrior_17",
+          "profile": "https://i.ibb.co/pdTmTS8/JORGE-PAEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Christopher Batista",
+          "id": "wwarrior_18",
+          "profile": "https://i.ibb.co/12160VB/CHIRSTOPHER-BATISTA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Luis Eduardo Tenas Burgos",
+          "id": "wwarrior_19",
+          "profile": "https://i.ibb.co/k6RnCHb/LUIS-TENAS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Daniela Rodríguez",
+          "id": "wwarrior_20",
+          "profile": "https://i.ibb.co/7V5Vwcf/DANIELA-RODRIGUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "César Adames",
+          "id": "wwarrior_21",
+          "profile": "https://i.ibb.co/2MNsXzp/CESAR-ADAMES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ivonne Fernández",
+          "id": "wwarrior_22",
+          "profile": "https://i.ibb.co/mtchXSL/IVONNE-FERNANDEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Ana moreno",
+          "id": "wwarrior_23",
+          "profile": "https://i.ibb.co/bWgsh2S/ANA-MORENO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Dahara Hassan",
+          "id": "wwarrior_24",
+          "profile": "https://i.ibb.co/0Q6m5Lr/DAHARA-HASSAN.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        }
+      ]
+    },
+    "yellow_monster": {
+      "name": "Yellow Monsters",
+      "logo": "https://i.ibb.co/n0DNxp2/yellow-monster.jpg",
+      "players": [
+        {
+          "name": "Diego Tgert",
+          "id": "yellow_monster_1",
+          "profile": "https://i.ibb.co/3vdH3xr/DIEGO-TIGERT.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Joanny Ballesteros",
+          "id": "yellow_monster_2",
+          "profile": "https://i.ibb.co/6RYJBLZ/JOANNY-BALLESTEROS.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Rina Castro",
+          "id": "yellow_monster_3",
+          "profile": "https://i.ibb.co/RpzdRv5/RINA-CASTRO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Onesis Gonzalez",
+          "id": "yellow_monster_4",
+          "profile": "https://i.ibb.co/yVmycqt/ONESIS-GONZALEZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Samantha Rios",
+          "id": "yellow_monster_5",
+          "profile": "https://i.ibb.co/9WDtS2M/SAMANTHA-RIOS.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "César Gonzalez",
+          "id": "yellow_monster_6",
+          "profile": "https://i.ibb.co/WVN3RhB/CESAR-GONZALEZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Juan Steer",
+          "id": "yellow_monster_7",
+          "profile": "https://i.ibb.co/f8sdQmP/JUAN-STEER.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Lissie Voltier",
+          "id": "yellow_monster_8",
+          "profile": "https://i.ibb.co/RBt2cZC/LISSIE-VOLTIER.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Fernando Ceballos",
+          "id": "yellow_monster_9",
+          "profile": "https://i.ibb.co/Ry9nH38/FERNANDO-CEBALLOS.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Patrick Díaz",
+          "id": "yellow_monster_10",
+          "profile": "https://i.ibb.co/gwXp2Q1/PATRICK-DIAZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jose Benitez",
+          "id": "yellow_monster_11",
+          "profile": "https://i.ibb.co/tKrZ9ZP/JOSE-BENITEZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Alexander Bethancourt",
+          "id": "yellow_monster_12",
+          "profile": "https://i.ibb.co/2qHCdrx/ALEXANDER-BETHANCOURT.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Javier Ayola",
+          "id": "yellow_monster_13",
+          "profile": "https://i.ibb.co/TR3K85S/JAVIER-AYOLA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Annika Forero",
+          "id": "yellow_monster_14",
+          "profile": "https://i.ibb.co/1dT5Jr1/ANNIKA-FORERO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Moises Moreno",
+          "id": "yellow_monster_15",
+          "profile": "https://i.ibb.co/4dmvZJR/MOISES-MORENO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Irving Morrell",
+          "id": "yellow_monster_16",
+          "profile": "https://i.ibb.co/s2xz726/IRVING-MORRELL.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        }
+      ]
+    },
+    "cool_ones": {
+      "name": "The Cool Ones",
+      "logo": "https://i.ibb.co/s98nBYV/the-cool-ones.jpg",
+      "players": [
+        {
+          "name": "Ambar Cabrera",
+          "id": "tco_1",
+          "profile": "https://i.ibb.co/hdWsj4N/AMBAR-CABRERA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Sara Vergara",
+          "id": "tco_2",
+          "profile": "https://i.ibb.co/VHwD5z3/SARA-VERGARA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Sasha Cabrera",
+          "id": "tco_3",
+          "profile": "https://i.ibb.co/qMBk9NV/SASHA-CABRERA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Juan Garuz",
+          "id": "tco_4",
+          "profile": "https://i.ibb.co/jG43X8X/JAUN-GARUZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jorge Torregroza",
+          "id": "tco_5",
+          "profile": "https://i.ibb.co/fCzTPzg/JORGE-TORREGROZA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Roberto Lara",
+          "id": "tco_6",
+          "profile": "https://i.ibb.co/2FPW0Xp/ROBERTO-LARA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Manuel García",
+          "id": "tco_7",
+          "profile": "https://i.ibb.co/DYZgWmR/MANUEL-GARCIA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Karen Daniels",
+          "id": "tco_8",
+          "profile": "https://i.ibb.co/j4h9KyF/KAREN-DANIELS.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Kassandra Dos Santos",
+          "id": "tco_9",
+          "profile": "https://i.ibb.co/qkBBvsF/KASSANDRA-DOS-SANTOS.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Santiago Peña",
+          "id": "tco_10",
+          "profile": "https://i.ibb.co/10MLzJm/SANTIAGO-PEN-A.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Sebastian Urrutia",
+          "id": "tco_11",
+          "profile": "https://i.ibb.co/JyjMfhw/SEBASTIAN-URRUTIA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Luis Girón",
+          "id": "tco_12",
+          "profile": "https://i.ibb.co/vXKq4PG/LUIS-GIRON.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Oscar Corella",
+          "id": "tco_13",
+          "profile": "https://i.ibb.co/GnMGxFZ/OSCAR-CORELLA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Stefano Petroni",
+          "id": "tco_14",
+          "profile": "https://i.ibb.co/NFbzSY6/STEFANO-PETRONI.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Daniel Lopez",
+          "id": "tco_15",
+          "profile": "https://i.ibb.co/Y7KPTnS/DANIEL-LOPEZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Gia Vásquez",
+          "id": "tco_16",
+          "profile": "https://i.ibb.co/QmhrK7W/GIA-VASQUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        }
+      ]
+    },
+    "suck_our_kicks": {
+      "name": "Suck Our Kicks",
+      "logo": "https://i.ibb.co/1QY688q/suck-our-kicks.jpg",
+      "players": [
+        {
+          "name": "Dylan Centeno",
+          "id": "sok_1",
+          "profile": "https://i.ibb.co/r400pZq/DYLAN-CENTENO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Alvaro Ordas",
+          "id": "sok_2",
+          "profile": "https://i.ibb.co/4TMCk2H/ALVARO-ORDAS.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Johnny Jimenez",
+          "id": "sok_3",
+          "profile": "https://i.ibb.co/0mCq6bQ/JOHNNY-JIMENEZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jair Serracin",
+          "id": "sok_4",
+          "profile": "https://i.ibb.co/r2BfMnk/JAIR-SERRACIN.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Paolo Solis",
+          "id": "sok_5",
+          "profile": "https://i.ibb.co/xSYsm98/PAOLO-SOLIS.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Miguel Miranda",
+          "id": "sok_6",
+          "profile": "https://i.ibb.co/WNCY2hL/MIGUEL-MIRANDA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Gabriel Chong",
+          "id": "sok_7",
+          "profile": "https://i.ibb.co/sWnJZ0j/GABRIEL-CHONG.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Joel Carrera",
+          "id": "sok_8",
+          "profile": "https://i.ibb.co/5k0L2Tq/JOEL-CARRERA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Kevin Albelo",
+          "id": "sok_9",
+          "profile": "https://i.ibb.co/ygRzYL7/KEVIN-ALBELO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Julio Reyes",
+          "id": "sok_10",
+          "profile": "https://i.ibb.co/19rSVHm/JULIO-REYES.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Adrian Barco",
+          "id": "sok_11",
+          "profile": "https://i.ibb.co/swLF8dJ/ADRIAN-BARCOS.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Karina Sanchez",
+          "id": "sok_12",
+          "profile": "https://i.ibb.co/F09124t/KARINA-SANCHEZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Ashley Gonzalez",
+          "id": "sok_13",
+          "profile": "https://i.ibb.co/8sCp1Hv/ASHLEY-GONZALEZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "María Lopez",
+          "id": "sok_14",
+          "profile": "https://i.ibb.co/DwdW5Mr/MARIA-LOPEZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Génesis Morán",
+          "id": "sok_15",
+          "profile": "https://i.ibb.co/zFvpXcD/GENESIS-MORAN.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Michell Torres",
+          "id": "sok_16",
+          "profile": "https://i.ibb.co/FWtVZRJ/MICHELL-TORRES.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Hellen Martínez",
+          "id": "sok_17",
+          "profile": "https://i.ibb.co/QvzKLv5/HELLEN-MARTINEZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Maria Valdés",
+          "id": "sok_18",
+          "profile": "https://i.ibb.co/xDY2B8L/MARIA-VALDES.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Hillary Cruz",
+          "id": "sok_19",
+          "profile": "https://i.ibb.co/DrLGvMN/HILLARY-CRUZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        }
+      ]
+    },
+    "smash": {
+      "name": "Smash Balls",
+      "logo": "https://i.ibb.co/HXLhGc5/smash-balls.jpg",
+      "players": [
+        {
+          "name": "Shadick Ponce",
+          "id": "smash_1",
+          "profile": "https://i.ibb.co/pwNMxhg/SHADICK-PONCE.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Amanda Lescure",
+          "id": "smash_2",
+          "profile": "https://i.ibb.co/qsZCCSc/AMANDA-LESCURE.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Gilberto Castroverde",
+          "id": "smash_4",
+          "profile": "https://i.ibb.co/RNVjj5V/GILBERTO-CASTROVERDE.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jonathan Quiroz",
+          "id": "smash_5",
+          "profile": "https://i.ibb.co/jMzHCkp/JONATHAN-QUIROZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jenira Justiniani",
+          "id": "smash_6",
+          "profile": "https://i.ibb.co/9tSVM3r/JENIRA-JUSTINIANI.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Luis Murcia",
+          "id": "smash_7",
+          "profile": "https://i.ibb.co/TPNTWxQ/LUIS-MURCIA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Abdeel Guevara",
+          "id": "smash_8",
+          "profile": "https://i.ibb.co/CHhmWbv/ABDEEL-GUEVARA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Carla Man",
+          "id": "smash_9",
+          "profile": "https://i.ibb.co/RYzYHJq/CARLA-MAN.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Dominik Friedrichs",
+          "id": "smash_10",
+          "profile": "https://i.ibb.co/fpjhBPv/DOMINIK-FRIEDRICHS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Juan Carlos Solís",
+          "id": "smash_11",
+          "profile": "https://i.ibb.co/YQW7hjH/JUAN-SOLIS.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Lydiamm López",
+          "id": "smash_12",
+          "profile": "https://i.ibb.co/YNYpqGc/LYDIAMM-LOPEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Nelisis Espino",
+          "id": "smash_13",
+          "profile": "https://i.ibb.co/V3nSzRn/NELISIS-ESPINO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Roderick Pittí",
+          "id": "smash_14",
+          "profile": "https://i.ibb.co/KzXJS90/RODERICK-PITTI.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Tomás Rodríguez",
+          "id": "smash_15",
+          "profile": "https://i.ibb.co/1sHBD4j/TOMAS-RODRIGUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Tomás Rosas",
+          "id": "smash_16",
+          "profile": "https://i.ibb.co/gv20DVq/TOMAS-ROSAS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Wendy Torres",
+          "id": "smash_17",
+          "profile": "https://i.ibb.co/nQKkQXt/WENDY-TORRES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Joshua Garibaldo",
+          "id": "smash_18",
+          "profile": "https://i.ibb.co/YPnqx39/joshua-garibaldo.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        }
+      ]
+    },
+    "ring_my_balls": {
+      "name": "Ring My Balls",
+      "logo": "https://i.ibb.co/SrJBYtL/ring-my-balls.jpg",
+      "players": [
+        {
+          "name": "Jonathan Porras",
+          "id": "ring_1",
+          "profile": "https://i.ibb.co/G5tbB7k/JONATHAN-PORRAS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Gionela Guerrero",
+          "id": "ring_2",
+          "profile": "https://i.ibb.co/tQRj22f/GIONELA-GUERRERO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Elias Combe",
+          "id": "ring_3",
+          "profile": "https://i.ibb.co/THT0vrM/ELIAS-COMBE.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Riquely Dominguez",
+          "id": "ring_4",
+          "profile": "https://i.ibb.co/KKsBppq/RIQUELY-DOMINGUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "José Manuel Olmedo",
+          "id": "ring_5",
+          "profile": "https://i.ibb.co/ZNkVcyz/JOSE-OLMEDO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Carlos Aparicio",
+          "id": "ring_6",
+          "profile": "https://i.ibb.co/cXvCM9Y/CARLOS-APARICIO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Victoria Isaza",
+          "id": "ring_7",
+          "profile": "https://i.ibb.co/qsNy0VM/VICTORIA-ISAZA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Orly Ramos",
+          "id": "ring_8",
+          "profile": "https://i.ibb.co/GtGcC5r/ORLY-RAMOS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Sarah Melbournes",
+          "id": "ring_9",
+          "profile": "https://i.ibb.co/6m30D67/SARAH-MELBOURNES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Darinel De León",
+          "id": "ring_10",
+          "profile": "https://i.ibb.co/vBRpypR/DARINEL-DE-LEON.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Irik Limnio",
+          "id": "ring_11",
+          "profile": "https://i.ibb.co/6nKHtJk/IRIK-LIMNIO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Josué Porras",
+          "id": "ring_12",
+          "profile": "https://i.ibb.co/dbr5gSQ/JOSUE-PORRAS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Leonardo Orozco",
+          "id": "ring_13",
+          "profile": "https://i.ibb.co/8D3P600/LEONARDO-OROZCO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Yorva Abrego",
+          "id": "ring_14",
+          "profile": "https://i.ibb.co/bPHC7Cc/YORVA-ABREGO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Jenny Abad",
+          "id": "ring_15",
+          "profile": "https://i.ibb.co/BrpNhZ3/JENNY-ABAD.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "José Urrunaga",
+          "id": "ring_16",
+          "profile": "https://i.ibb.co/LS0LcRc/JOSE-URRUNAGA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Heidi Valdivieso",
+          "id": "ring_17",
+          "profile": "https://i.ibb.co/LpnRPFv/HEIDI-VALDIVIESO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        }
+      ]
+    },
+    "pink_guns": {
+      "name": "PinkGuns",
+      "logo": "https://i.ibb.co/Jk5mZys/pink-guns.jpg",
+      "players": [
+        {
+          "name": "Sebastián Solis",
+          "id": "pink_1",
+          "profile": "https://i.ibb.co/fkkmXNf/SEBASTIAN-SOLIS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Paola Broce",
+          "id": "pink_2",
+          "profile": "https://i.ibb.co/vkn06MF/PAOLA-BROCE.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Rosalia Solis",
+          "id": "pink_3",
+          "profile": "https://i.ibb.co/Btq6Trm/ROSALIA-SOLIS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Rigoberto Amaya",
+          "id": "pink_4",
+          "profile": "https://i.ibb.co/F0Q9knD/RIGOBERTO-AMAYA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Edwin Quintero",
+          "id": "pink_5",
+          "profile": "https://i.ibb.co/dfh2twq/EDWIN-QUINTERO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Euribiel Valdes",
+          "id": "pink_6",
+          "profile": "https://i.ibb.co/64cM9dz/EURIBIEL-VALDES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Moises Cedeño",
+          "id": "pink_7",
+          "profile": "https://i.ibb.co/BNyV3zn/MOISES-CEDEN-O.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Liz Marie Jaen",
+          "id": "pink_8",
+          "profile": "https://i.ibb.co/ggN8n96/LIZ-JAEN.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Stephany Nunes",
+          "id": "pink_9",
+          "profile": "https://i.ibb.co/7bT9L6m/STEPHANY-NUNES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Johan Pedraza",
+          "id": "pink_10",
+          "profile": "https://i.ibb.co/5WCXz2T/JOHAN-PEDRAZA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jean Carlos Araúz",
+          "id": "pink_11",
+          "profile": "https://i.ibb.co/wB81cVZ/JEAN-ARAUZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Cristian Quintero",
+          "id": "pink_12",
+          "profile": "https://i.ibb.co/ZT1P5x1/CRISTIAN-QUINTERO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Karol Quiroz",
+          "id": "pink_13",
+          "profile": "https://i.ibb.co/Y2vY4yw/KAROL-QUIROZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Claudio Bernal",
+          "id": "pink_14",
+          "profile": "https://i.ibb.co/svqZ10P/CLAUDIO-BERNAL.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Nicolas Rodriguez",
+          "id": "pink_15",
+          "profile": "https://i.ibb.co/X3x3zP4/NICOLAS-RODRIGUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Amanda Aizprua",
+          "id": "pink_16",
+          "profile": "https://i.ibb.co/s9hKCBR/AMANDA-AIZPRUA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Adrian Garrido",
+          "id": "pink_17",
+          "profile": "https://i.ibb.co/VtktcGp/ADRIAN-GARRIDO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Yerling De Gracia",
+          "id": "pink_18",
+          "profile": "https://i.ibb.co/3dCKTY0/YERLING-DE-GRACIA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Andrea Espinosa",
+          "id": "pink_19",
+          "profile": "https://i.ibb.co/vxxTH5x/ANDREA-ESPINOSA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        }
+      ]
+    },
+    "phoenix": {
+      "name": "Phoenix",
+      "logo": "https://i.ibb.co/YkF9Sjx/phoenix.jpg",
+      "players": [
+        {
+          "name": "Jorge Isaac Urbano Miranda",
+          "id": "phoenix_1",
+          "profile": "https://i.ibb.co/Pxn2Y7f/JORGE-URBANO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Yarelis González",
+          "id": "phoenix_2",
+          "profile": "https://i.ibb.co/bLJc4P3/YARELIS-GONZALEZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Helena Athanasiadis",
+          "id": "phoenix_3",
+          "profile": "https://i.ibb.co/C6bNZT5/HELENA-ATHANASIADIS.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Oriel Eliecer Yañez Greenfield",
+          "id": "phoenix_4",
+          "profile": "https://i.ibb.co/b11q9qs/ORIEL-YAN-EZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Luis Antonio Vásquez González",
+          "id": "phoenix_5",
+          "profile": "https://i.ibb.co/y5RwxKK/LUIS-VASQUEZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Eric E. Zuleta K",
+          "id": "phoenix_6",
+          "profile": "https://i.ibb.co/PWKvdTf/ERIC-ZULETA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Franklin Ariel Castillo Ramos",
+          "id": "phoenix_7",
+          "profile": "https://i.ibb.co/7NcvR9n/FRANKLIN-CASTILLO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Luis Loaiza",
+          "id": "phoenix_8",
+          "profile": "https://i.ibb.co/KDprmkc/LUIS-LOIZA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ninoska Rios de Pitty",
+          "id": "phoenix_9",
+          "profile": "https://i.ibb.co/5nV9bcN/NINOSKA-RIOS.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "María Victoria Ramírez",
+          "id": "phoenix_10",
+          "profile": "https://i.ibb.co/zP27bmb/MARIA-RAMIREZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Gabriela Arlene Jaramillo Palacios",
+          "id": "phoenix_11",
+          "profile": "https://i.ibb.co/FxrTyRt/GABRIELA-JARAMILLO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Jose Acosta",
+          "id": "phoenix_12",
+          "profile": "https://i.ibb.co/F3y7yDh/JOSE-ACOSTA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Carlos David Carrasco",
+          "id": "phoenix_14",
+          "profile": "https://i.ibb.co/1XVS4gN/CARLOS-CARRASCO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jose Luis Urbano",
+          "id": "phoenix_15",
+          "profile": "https://i.ibb.co/30BfJSL/JOSE-URBANO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jose Carrasquilla",
+          "id": "phoenix_16",
+          "profile": "https://i.ibb.co/MRGdKcH/JOSE-CARRASQUILLA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Yamileth Samaniego",
+          "id": "phoenix_17",
+          "profile": "https://i.ibb.co/JnyQP7k/YAMILETH-SAMANIEGO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Madeline Itzel Espinosa Romero",
+          "id": "phoenix_18",
+          "profile": "https://i.ibb.co/KXY4ggC/MADELINE-ESPINOSA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        }
+      ]
+    },
+    "nomadas": {
+      "name": "Nómadas",
+      "logo": "https://i.ibb.co/sPk50YB/nomadas.jpg",
+      "players": [
+        {
+          "name": "Geresse Schossow",
+          "id": "nomada_1",
+          "profile": "https://i.ibb.co/Y2SRz4K/GERESSE-SCHOSSOW.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Alberto Schossow",
+          "id": "nomada_2",
+          "profile": "https://i.ibb.co/SdWZwYQ/ALBERTO-SCHOSSOW.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Antuan Schossow",
+          "id": "nomada_3",
+          "profile": "https://i.ibb.co/HVnb2wc/ANTUAN-SCHOSSOW.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Yerelyn Schossow",
+          "id": "nomada_4",
+          "profile": "https://i.ibb.co/2h9mFPV/YERELYN-SCHOSSOW.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Milagros Martinez",
+          "id": "nomada_5",
+          "profile": "https://i.ibb.co/Nyz4BHt/MILAGROS-MARTINEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Daniel Espinoza",
+          "id": "nomada_6",
+          "profile": "https://i.ibb.co/1J8Gs50/DANIEL-ESPINOZA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Sugeily Jaén",
+          "id": "nomada_7",
+          "profile": "https://i.ibb.co/vD9Xv5w/SUGEILY-JAEN.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Nimia Batista",
+          "id": "nomada_8",
+          "profile": "https://i.ibb.co/QdsPVHR/NIMIA-BATISTA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Juan Jipsion",
+          "id": "nomada_9",
+          "profile": "https://i.ibb.co/L9Wjysz/JUAN-JIPSION.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Daymar Vargas",
+          "id": "nomada_10",
+          "profile": "https://i.ibb.co/3k32DTJ/DAYMAR-VARGAS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Luis Cotes",
+          "id": "nomada_11",
+          "profile": "https://i.ibb.co/Sxmq1m7/LUIS-COTES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Nohely Cardenas",
+          "id": "nomada_12",
+          "profile": "https://i.ibb.co/hCT6jHy/NOHELY-CARDENAS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Enrique Gomez",
+          "id": "nomada_14",
+          "profile": "https://i.ibb.co/6Yp4xyy/ENRIQUE-GOMEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ana Medina",
+          "id": "nomada_15",
+          "profile": "https://i.ibb.co/vwfPHPJ/ANA-MEDINA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Daniela Porta",
+          "id": "nomada_16",
+          "profile": "https://i.ibb.co/TRGrhPx/DANIELA-PORTA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Ricardo Liao",
+          "id": "nomada_17",
+          "profile": "https://i.ibb.co/Gdd5nG8/RICARDO-LIAO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        }
+      ]
+    },
+    "new_wave": {
+      "name": "New Wave",
+      "logo": "https://i.ibb.co/gd8J1Dq/new-wave.jpg",
+      "players": [
+        {
+          "name": "Riccardo Pessina",
+          "id": "new_wave_1",
+          "profile": "https://i.ibb.co/RzFrcYY/RICARDO-PESSINA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Roger Alexei Urrutia Parker",
+          "id": "new_wave_2",
+          "profile": "https://i.ibb.co/Ybcf0Fq/ROGER-URRUTIA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Maximiliano Montano",
+          "id": "new_wave_3",
+          "profile": "https://i.ibb.co/C7jtv7L/MAXIMILIANO-MONTANO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Victor Joel Canto Fisher",
+          "id": "new_wave_4",
+          "profile": "https://i.ibb.co/rQV3r7b/VICTOR-CANTO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Evaristo Madrid",
+          "id": "new_wave_5",
+          "profile": "https://i.ibb.co/Vps3jX9/EVARISTO-MADRID.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jose Carlos Alvarado",
+          "id": "new_wave_6",
+          "profile": "https://i.ibb.co/f9YxKbT/JOSE-ALVARADO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Edwin Delgado",
+          "id": "new_wave_7",
+          "profile": "https://i.ibb.co/VY0MpTk/EDWIN-DELGADO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "José Luis Gómez",
+          "id": "new_wave_8",
+          "profile": "https://i.ibb.co/8xLgSr5/JOSE-LUIS-GOMEZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Gabriel Solano",
+          "id": "new_wave_9",
+          "profile": "https://i.ibb.co/D7ZVMTV/GABRIEL-SOLANO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "José Ramon Gómez",
+          "id": "new_wave_10",
+          "profile": "https://i.ibb.co/nrzqnnk/JOSE-GOMEZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Adriana Tello",
+          "id": "new_wave_11",
+          "profile": "https://i.ibb.co/jMnr36M/ADRIANA-TELLO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Kemrie Guillen",
+          "id": "new_wave_12",
+          "profile": "https://i.ibb.co/zF5DY65/KEMRIE-GUILLEN.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Diana Martinez",
+          "id": "new_wave_13",
+          "profile": "https://i.ibb.co/WBdCM7X/DIANA-MARTINEZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Natalie Pantet",
+          "id": "new_wave_14",
+          "profile": "https://i.ibb.co/hyg1Zrr/NATALIE-PANTET.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Juliana Naranjo",
+          "id": "new_wave_15",
+          "profile": "https://i.ibb.co/86pW2Cd/JULIANA-NARANJO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Rebeca Luengo",
+          "id": "new_wave_16",
+          "profile": "https://i.ibb.co/px5FbRD/REBECA-LUENGO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Ana Rebeca Reyes",
+          "id": "new_wave_17",
+          "profile": "https://i.ibb.co/zxZN1x2/ANA-REYES.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Monica Moreno",
+          "id": "new_wave_18",
+          "profile": "https://i.ibb.co/8j2dNXH/MONICA-MORENO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Alejandro Guzman",
+          "id": "new_wave_19",
+          "profile": "https://i.ibb.co/Wk4BhJ2/ALEJANDRO-GUZMAN.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        }
+      ]
+    },
+    "matanga": {
+      "name": "Matanga",
+      "logo": "https://i.ibb.co/x2B1dmj/matanga.jpg",
+      "players": [
+        {
+          "name": "Héctor Alemán",
+          "id": "matanga_1",
+          "profile": "https://i.ibb.co/429PLVf/HECTOR-ALEMAN.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Alberto García de Paredes",
+          "id": "matanga_3",
+          "profile": "https://i.ibb.co/HhvbsWm/ALBERTO-GARCIA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Melvin Wright",
+          "id": "matanga_4",
+          "profile": "https://i.ibb.co/hMX2tck/MELVIN-WRIGHT.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Felix Olivares",
+          "id": "matanga_5",
+          "profile": "https://i.ibb.co/Lh8sKnZ/FELIX-OLIVARES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Gabriel Richards",
+          "id": "matanga_6",
+          "profile": "https://i.ibb.co/P5T6Fk5/GABRIEL-RICHARDS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Evelyn Uribe",
+          "id": "matanga_7",
+          "profile": "https://i.ibb.co/Y30xNcY/EVELYN-URIBE.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Denis Guerra",
+          "id": "matanga_8",
+          "profile": "https://i.ibb.co/KxWhyFj/DENIS-GUERRA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Michelle Holder",
+          "id": "matanga_9",
+          "profile": "https://i.ibb.co/KWVDTwr/MICHELLE-HOLDER.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Alvaro Roux",
+          "id": "matanga_10",
+          "profile": "https://i.ibb.co/v3mRKwL/ALVARO-ROUX.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Carlos Hernández",
+          "id": "matanga_11",
+          "profile": "https://i.ibb.co/D4frmjB/CARLOS-HERNANDEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Liliana Menotti",
+          "id": "matanga_12",
+          "profile": "https://i.ibb.co/gDg4Dgt/LILIANA-MENOTTI.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Natalia Young",
+          "id": "matanga_13",
+          "profile": "https://i.ibb.co/kMh0YqM/NATALAI-YOUNG.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "María Del Carmen López",
+          "id": "matanga_14",
+          "profile": "https://i.ibb.co/7RqC1d6/MARICARMEN-LOPEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Gisela Young",
+          "id": "matanga_15",
+          "profile": "https://i.ibb.co/FWnyHjz/GISELA-YOUNG.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Alex Huertas",
+          "id": "matanga_16",
+          "profile": "https://i.ibb.co/cYfgZ5T/ALEX-HUERTAS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Isabel Guzman",
+          "id": "matanga_17",
+          "profile": "https://i.ibb.co/2vm5WDL/ISABEL-GUZMAN.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        }
+      ]
+    },
+    "mambas": {
+      "name": "Mambas",
+      "logo": "https://i.ibb.co/k9PvySX/mambas.jpg",
+      "players": [
+        {
+          "name": "Jonathan Carrasco",
+          "id": "mamba_1",
+          "profile": "https://i.ibb.co/Y2y6XWm/JONATHAN-CARRASCO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Alejandro Arias",
+          "id": "mamba_2",
+          "profile": "https://i.ibb.co/Kz0mwdp/ALEJANDRO-ARIAS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Tadeo Torres",
+          "id": "mamba_3",
+          "profile": "https://i.ibb.co/PCZD2ZB/MARTIN-TADEO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ramon Cardoze",
+          "id": "mamba_4",
+          "profile": "https://i.ibb.co/TYNMLLs/RAMON-CARDOZE.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jorge Fernández",
+          "id": "mamba_5",
+          "profile": "https://i.ibb.co/1mHN86P/JORGE-FERNANDEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Julio Vigil",
+          "id": "mamba_6",
+          "profile": "https://i.ibb.co/khYQKKZ/JULIO-VIGIL.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Luis Camarena",
+          "id": "mamba_7",
+          "profile": "https://i.ibb.co/mbb4x4Y/LUIS-CAMARENA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Patricia Azuaje",
+          "id": "mamba_8",
+          "profile": "https://i.ibb.co/DKJkWRZ/PATRICIA-AZUAJE.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Natalia Lopez",
+          "id": "mamba_9",
+          "profile": "https://i.ibb.co/TLb64D9/NATALIA-LOPEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Angela Ceravolo",
+          "id": "mamba_10",
+          "profile": "https://i.ibb.co/L6mCF65/ANGELA-CERAVOLO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Julia Figueroa",
+          "id": "mamba_11",
+          "profile": "https://i.ibb.co/thbGtZV/JULIA-FIGUEROA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Laura Troetsch",
+          "id": "mamba_12",
+          "profile": "https://i.ibb.co/YyRTkWp/LAURA-TROETSCH.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Andrea Reyes",
+          "id": "mamba_13",
+          "profile": "https://i.ibb.co/KF7L5dy/ANDREA-REYES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Ilselena Arenas",
+          "id": "mamba_14",
+          "profile": "https://i.ibb.co/TtVv6JQ/ILSELENA-ARENAS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Luis Carlos Stanziola",
+          "id": "mamba_15",
+          "profile": "https://i.ibb.co/P5nbNSh/LUIS-STANZIOLA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Luis Ledezma",
+          "id": "mamba_16",
+          "profile": "https://i.ibb.co/9NSQhdR/LUIS-LEDEZMA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        }
+      ]
+    },
+    "blue_skins": {
+      "name": "BlueSkins",
+      "logo": "https://i.ibb.co/wzYXL5r/blue-skins.jpg",
+      "players": [
+        {
+          "name": "Gianmario Chanis",
+          "id": "blue_skin_1",
+          "profile": "https://i.ibb.co/tJKqJD0/GIANMARIO-CHANIS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Veronica Miranda",
+          "id": "blue_skin_2",
+          "profile": "https://i.ibb.co/9cQdyzJ/VERONICA-MIRANDA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Andrea Daniella Tello Domínguez",
+          "id": "blue_skin_3",
+          "profile": "https://i.ibb.co/M8jQyMn/ANDREA-TELLO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Javier Amado Barrios Rodriguez.",
+          "id": "blue_skin_4",
+          "profile": "https://i.ibb.co/K9X3ThH/JAVIER-BARRIOS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Paulo Cesar Townsend Lasso",
+          "id": "blue_skin_5",
+          "profile": "https://i.ibb.co/4MzCKwT/PAULO-TOWNSEND.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Luis Miguel Valencia Ibargüen",
+          "id": "blue_skin_6",
+          "profile": "https://i.ibb.co/Zf9GXsk/LUIS-VALENCIA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Diana Carolina Pérez Rodríguez",
+          "id": "blue_skin_7",
+          "profile": "https://i.ibb.co/qgQVd0x/DIANA-PEREZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "María Isabel Ferreira",
+          "id": "blue_skin_8",
+          "profile": "https://i.ibb.co/V2Dhrwt/MARIA-FERREIRA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Ismael Garibaldo",
+          "id": "blue_skin_9",
+          "profile": "https://i.ibb.co/Wy2My0H/ISMAEL-GARIBALDO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jorge Suárez",
+          "id": "blue_skin_10",
+          "profile": "https://i.ibb.co/t2QCsvP/JORGE-SUAREZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Juan Felipe Valero",
+          "id": "blue_skin_11",
+          "profile": "https://i.ibb.co/Y294CnM/JUAN-VALERO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Adriana Nicole Navarro Domínguez",
+          "id": "blue_skin_12",
+          "profile": "https://i.ibb.co/fNzkWgk/ADRIANA-NAVARRO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "David Rios",
+          "id": "blue_skin_13",
+          "profile": "https://i.ibb.co/VQthw1y/DAVID-RIOS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Mitzi Elizabeth González Martínez",
+          "id": "blue_skin_14",
+          "profile": "https://i.ibb.co/93847wX/MITZI-GONZALEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Giancarlos Ramos",
+          "id": "blue_skin_15",
+          "profile": "https://i.ibb.co/9tCdWnY/GIANCARLOS-RAMOS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        }
+      ]
+    },
+    "knd": {
+      "name": "Los Chicos del Barrio",
+      "logo": "https://i.ibb.co/b64LwgR/chicos-del-barrio.jpg",
+      "players": [
+        {
+          "name": "Kimber Zurita",
+          "id": "knd_1",
+          "profile": "https://i.ibb.co/8KDCsLZ/KIMBER-ZURITA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Clarissa Abrego",
+          "id": "knd_2",
+          "profile": "https://i.ibb.co/yFDSdCh/CLARISSA-ABREGO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Anne Miranda",
+          "id": "knd_3",
+          "profile": "https://i.ibb.co/rcBPG7P/ANNE-MIRANDA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Karina Marquinez",
+          "id": "knd_4",
+          "profile": "https://i.ibb.co/G90Mt74/KARINA-LINNETTE.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Enrique Siu",
+          "id": "knd_5",
+          "profile": "https://i.ibb.co/HY5KVCt/ENRIQUE-SIU.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Gustavo Escorcha",
+          "id": "knd_6",
+          "profile": "https://i.ibb.co/XxLXwcW/GUSTAVO-JAIME.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Carlos Bartoli",
+          "id": "knd_7",
+          "profile": "https://i.ibb.co/jk3BRg2/CARLOS-BARTOLI.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Reus Flores",
+          "id": "knd_8",
+          "profile": "https://i.ibb.co/TR311nM/REUS-FLORES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Gianfranco Perez",
+          "id": "knd_9",
+          "profile": "https://i.ibb.co/WybJSJw/GIANFRANCO-ADAMES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Frederick Ruiz",
+          "id": "knd_10",
+          "profile": "https://i.ibb.co/VWWgBW7/FREDERICK-RUIZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Keyla Aguilar",
+          "id": "knd_11",
+          "profile": "https://i.ibb.co/cNvFqQJ/KEYLA-AGUILAR.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Alix Nasser",
+          "id": "knd_12",
+          "profile": "https://i.ibb.co/RpnbmtH/ALIX-NASSER.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Mario Villareal",
+          "id": "knd_13",
+          "profile": "https://i.ibb.co/vx9CHTv/MARIO-VILLAREAL.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Tifany Real",
+          "id": "knd_14",
+          "profile": "https://i.ibb.co/jLKLvfV/TIFFANY-REAL.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Sasha Real",
+          "id": "knd_15",
+          "profile": "https://i.ibb.co/jbmRx3g/SACHA-REAL.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Kathy Smith",
+          "id": "knd_16",
+          "profile": "https://i.ibb.co/w7fM7X4/KATHY-SMITH.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "David Reyes",
+          "id": "knd_17",
+          "profile": "https://i.ibb.co/0QDwvL0/DAVID-REYES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Nicole Peng",
+          "id": "knd_18",
+          "profile": "https://i.ibb.co/s2wG7MV/NICOLE-PENG.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Marien Chue",
+          "id": "knd_19",
+          "profile": "https://i.ibb.co/N1LBMt6/MARIAN-CHUE.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Keylis Madelen",
+          "id": "knd_20",
+          "profile": "https://i.ibb.co/HVRNdRh/KEILYS-AGUILAR.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Mayron Montez",
+          "id": "knd_21",
+          "profile": "https://i.ibb.co/bLCVwvz/MAYRON-MONTES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        }
+      ]
+    },
+    "chivirikas": {
+      "name": "Chivirikas",
+      "logo": "https://i.ibb.co/2k9jxWz/chivirikas.jpg",
+      "players": [
+        {
+          "name": "Jose Villarreal",
+          "id": "chivirika_1",
+          "profile": "https://i.ibb.co/1zX57B7/JOSE-VILLAREAL.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Miguel Mirones",
+          "id": "chivirika_2",
+          "profile": "https://i.ibb.co/Ltpjjsj/MIGUEL-MIRONES.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Anthony Echevers",
+          "id": "chivirika_3",
+          "profile": "https://i.ibb.co/C9Mf09P/ANTHONY-ECHEVERS.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Alexander Bustamante",
+          "id": "chivirika_4",
+          "profile": "https://i.ibb.co/kqkxXbw/ALEXANDER-BUSTAMANTE.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ramses Perez",
+          "id": "chivirika_5",
+          "profile": "https://i.ibb.co/FJYFGrn/RAMSES-PEREZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ana Patricia Luque",
+          "id": "chivirika_6",
+          "profile": "https://i.ibb.co/fN0fdVg/ANA-PATRICIA-LUQUE.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Antonio Lam",
+          "id": "chivirika_7",
+          "profile": "https://i.ibb.co/nk2thzf/ANTONIO-LAM.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Alexandra Arana",
+          "id": "chivirika_8",
+          "profile": "https://i.ibb.co/j6L8vbD/ALEXANDRA-ARANA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Arlyn Tinoco",
+          "id": "chivirika_9",
+          "profile": "https://i.ibb.co/jRdfMxY/ARLYN-TINOCO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Diego Marín",
+          "id": "chivirika_10",
+          "profile": "https://i.ibb.co/c2g9hK9/DIEGO-MARIN.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Andres Marin",
+          "id": "chivirika_11",
+          "profile": "https://i.ibb.co/c3XMyG8/ANDRES-MARIN.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jose Gabriel Batista",
+          "id": "chivirika_12",
+          "profile": "https://i.ibb.co/jRSKS8D/JOSE-BATISTA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Naomi Jordan",
+          "id": "chivirika_13",
+          "profile": "https://i.ibb.co/VTWqSh1/NAOMI-JORDAN.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Andrés Recuero",
+          "id": "chivirika_14",
+          "profile": "https://i.ibb.co/kDjv86B/ANDRES-RECUERO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ana Paula Recuero",
+          "id": "chivirika_15",
+          "profile": "https://i.ibb.co/KhxpG3x/ANA-RECUERO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Hannah Aguilar",
+          "id": "chivirika_16",
+          "profile": "https://i.ibb.co/wYxG1pt/HANNAH-AGUILAR.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Clarissa Márquez",
+          "id": "chivirika_17",
+          "profile": "https://i.ibb.co/64QYHyf/CLARISSA-MARQUEZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Mary González",
+          "id": "chivirika_18",
+          "profile": "https://i.ibb.co/bBsJrb4/MARY-ROSS-GONZALEZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        }
+      ]
+    },
+    "dragonz": {
+      "name": "Dragonz",
+      "logo": "https://i.ibb.co/s2Fh8JS/dragonz.jpg",
+      "players": [
+        {
+          "name": "Alexander Chávez",
+          "id": "dragon_1",
+          "profile": "https://i.ibb.co/cTpp9SW/ALEXANDER-CHAVEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Gelys Rodriguez",
+          "id": "dragon_2",
+          "profile": "https://i.ibb.co/JkpsyZR/GELYS-RODRIGUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Edinelsy Madrid",
+          "id": "dragon_3",
+          "profile": "https://i.ibb.co/dfbr22Y/EDINELSY-MADRID.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "José Zambrano",
+          "id": "dragon_4",
+          "profile": "https://i.ibb.co/t2rjSVP/JOSE-ZAMBRANO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Latisha Green",
+          "id": "dragon_5",
+          "profile": "https://i.ibb.co/HVYR4pH/LATISHA-GREEN.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Ivonne Carrasquilla",
+          "id": "dragon_6",
+          "profile": "https://i.ibb.co/MkL1S13/IVONNE-CARRASQUILLA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Isaac Carrasquilla",
+          "id": "dragon_7",
+          "profile": "https://i.ibb.co/6X8Xdqb/ISAAC-CARRASQUILLA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ramón Hernandez",
+          "id": "dragon_8",
+          "profile": "https://i.ibb.co/CQWYSHb/RAMON-HERNANDEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Antonio Sanchez",
+          "id": "dragon_9",
+          "profile": "https://i.ibb.co/yBNSLhr/ANTONIO-SANCHEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Damar Santana",
+          "id": "dragon_10",
+          "profile": "https://i.ibb.co/VSnTnbX/DAMAR-SANTAMARIA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ariel Mosquera",
+          "id": "dragon_11",
+          "profile": "https://i.ibb.co/vmb8kCX/ARIEL-MOSQUERA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jesús Troyano",
+          "id": "dragon_12",
+          "profile": "https://i.ibb.co/zF5KPbG/JESUS-TROYANO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Stephany Bethancourt",
+          "id": "dragon_13",
+          "profile": "https://i.ibb.co/YNbF1zt/STEPHANY-BETHANCOURT.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Winnie Barda",
+          "id": "dragon_14",
+          "profile": "https://i.ibb.co/gzby1qQ/WINNIE-BARDAYAN.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Ana Guzman",
+          "id": "dragon_15",
+          "profile": "https://i.ibb.co/tPvkfXY/ANA-GUZMAN.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ricardo Aguirre",
+          "id": "dragon_16",
+          "profile": "https://i.ibb.co/T4ybdP7/RICARDO-AGUIRRE.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Benjamin Pardo",
+          "id": "dragon_17",
+          "profile": "https://i.ibb.co/CWrw8Zd/BENJAMIN-PARDO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        }
+      ]
+    },
+    "drunkickers": {
+      "name": "Drunkickers",
+      "logo": "https://i.ibb.co/crYcNZs/drunkickers.jpg",
+      "players": [
+        {
+          "name": "Karen Denise Ferro Rodríguez",
+          "id": "drunk_1",
+          "profile": "https://i.ibb.co/tZZ7GLX/KAREN-FERRO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Juan Felipe Troya",
+          "id": "drunk_2",
+          "profile": "https://i.ibb.co/CQT7fd0/JUAN-TROYA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Luis Fernando Guerra Jimenez",
+          "id": "drunk_3",
+          "profile": "https://i.ibb.co/YjzGHPQ/LUIS-GUERRA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Fabiola Valentina Prestan Calu",
+          "id": "drunk_4",
+          "profile": "https://i.ibb.co/3yFPs7D/FABIOLA-PRESTAN.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Francisco Castañeda",
+          "id": "drunk_5",
+          "profile": "https://i.ibb.co/ssBFG9T/FRANCISCO-CASTA-EDA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jorge Córdoba",
+          "id": "drunk_6",
+          "profile": "https://i.ibb.co/vhH5PSp/JORGE-CORDOBA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Madelaine Mendieta",
+          "id": "drunk_7",
+          "profile": "https://i.ibb.co/n6vDkm2/MADELAINE-MENDIETA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Carlos Gomez",
+          "id": "drunk_8",
+          "profile": "https://i.ibb.co/Q894rst/CARLOS-GOMEZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Mario Alonso Dovo Johnson",
+          "id": "drunk_9",
+          "profile": "https://i.ibb.co/DR2JKZG/MARIO-DOVO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Eileen Loraine Córdoba Barahona",
+          "id": "drunk_10",
+          "profile": "https://i.ibb.co/WkcNMwv/EILEEN-CORDOBA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Daphne Beatrice Miranda Pinder",
+          "id": "drunk_11",
+          "profile": "https://i.ibb.co/TgJqHTV/DAPHNE-MIRANDA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Daniel Alarcon",
+          "id": "drunk_13",
+          "profile": "https://i.ibb.co/KrGr38L/DANIEL-ALARCON.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jorge Alberto Espinosa Jara",
+          "id": "drunk_14",
+          "profile": "https://i.ibb.co/x1mp5NF/JORGE-ESPINO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Alex Javier Sanchez Otero",
+          "id": "drunk_15",
+          "profile": "https://i.ibb.co/y456m9t/ALEX-SANCHEZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Paola Perez",
+          "id": "drunk_16",
+          "profile": "https://i.ibb.co/KsBzjnX/PAOLA-PEREZ.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Lia Leottau",
+          "id": "drunk_17",
+          "profile": "https://i.ibb.co/mJgkN8Y/LIA-LEOTTUA.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Maria Cristina Flores",
+          "id": "drunk_18",
+          "profile": "https://i.ibb.co/hyLsJzp/MARIA-FLORES.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Miguel Montero",
+          "id": "drunk_19",
+          "profile": "https://i.ibb.co/xh2nrL6/Miguel-Montero.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        }
+      ]
+    },
+    "el_bloque": {
+      "name": "El Bloque",
+      "logo": "https://i.ibb.co/hx0KsPV/el-bloque.jpg",
+      "players": [
+        {
+          "name": "Andres Puerta",
+          "id": "bloque_1",
+          "profile": "https://i.ibb.co/sQGQ695/ANDRES-PUERTA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Jan Marcos Barrera",
+          "id": "bloque_2",
+          "profile": "https://i.ibb.co/2ZpTBsX/JAN-MARCOS-BARRERA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Andrea Barrera",
+          "id": "bloque_3",
+          "profile": "https://i.ibb.co/wsRQ6CB/ANDREA-BARRERA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Luis Graell",
+          "id": "bloque_4",
+          "profile": "https://i.ibb.co/dL2bqYY/LUIS-GRAELL.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Gilberto Garrido",
+          "id": "bloque_5",
+          "profile": "https://i.ibb.co/xYCxzmw/GILBERTO-GARRIDO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Sharon Vásquez",
+          "id": "bloque_6",
+          "profile": "https://i.ibb.co/dJQmCxH/SHARON-VASQUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Juan Camilo Vera",
+          "id": "bloque_7",
+          "profile": "https://i.ibb.co/D11Ny41/JUAN-VERA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Gabriela Vargas",
+          "id": "bloque_8",
+          "profile": "https://i.ibb.co/NVRgkSN/GABRIELA-VARGAS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Sharon Del C. Vásquez",
+          "id": "bloque_9",
+          "profile": "https://i.ibb.co/YBMV9B1/SHARON-DEL-CARMEN-VASQUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Abraham Puerta",
+          "id": "bloque_10",
+          "profile": "https://i.ibb.co/5xXpBy7/ABRAHAM-OUERTA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ezequiel Mancilla",
+          "id": "bloque_11",
+          "profile": "https://i.ibb.co/SdXjZVR/EZEQUIEL-MANCILLA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Juan David Hall",
+          "id": "bloque_12",
+          "profile": "https://i.ibb.co/1TNSjWZ/JUAN-HALL.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ashley Aguirre Diez",
+          "id": "bloque_13",
+          "profile": "https://i.ibb.co/B3fQVD9/ASHLEY-AGUIRRE.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Jhonny Cortes",
+          "id": "bloque_14",
+          "profile": "https://i.ibb.co/1JdD0Nz/JHONNY-CORTES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ediberth Ocando",
+          "id": "bloque_15",
+          "profile": "https://i.ibb.co/7KmKkkM/EDIBERTH-OCANDO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Madelen Gonzalez",
+          "id": "bloque_16",
+          "profile": "https://i.ibb.co/vZsn24q/MADELEN-GONZALEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "José Barrios",
+          "id": "bloque_17",
+          "profile": "https://i.ibb.co/sqghsnv/JOSE-BARRIOS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "William Saurí",
+          "id": "bloque_18",
+          "profile": "https://i.ibb.co/PMcWGjm/WILLIAM-SAURI.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Valeria Rodriguez",
+          "id": "bloque_19",
+          "profile": "https://i.ibb.co/mSPxJQ5/VALERIA-RAMIREZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        }
+      ]
+    },
+    "arrepinchosos": {
+      "name": "Arrepinchosos",
+      "logo": "https://i.ibb.co/svsHbhX/logo-arrepinchosos.jpg",
+      "players": [
+        {
+          "name": "Jeremy Weitendorf",
+          "id": "arrepinchoso_1",
+          "profile": "https://i.ibb.co/C51PZm3/JEREMY-WEITENDORF.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Felipe Rodriguez",
+          "id": "arrepinchoso_2",
+          "profile": "https://i.ibb.co/FYGrPn7/FELIPE-RODRIGUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Adrian Zeballos",
+          "id": "arrepinchoso_3",
+          "profile": "https://i.ibb.co/kXxhz1J/ADRIAN-ZEBALLOS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Juan Rodríguez",
+          "id": "arrepinchoso_4",
+          "profile": "https://i.ibb.co/bFYXnKK/JUAN-RODRIGUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Carlos Ayarza",
+          "id": "arrepinchoso_5",
+          "profile": "https://i.ibb.co/vBtpzYb/CARLOS-AYARZA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Karen Rodríguez",
+          "id": "arrepinchoso_6",
+          "profile": "https://i.ibb.co/6N2sbH1/KAREN-RODRIGUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Diego Siblesz",
+          "id": "arrepinchoso_7",
+          "profile": "https://i.ibb.co/wSqJSMP/DIEGO-SIBLESZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Kristen Plotnikoff",
+          "id": "arrepinchoso_9",
+          "profile": "https://i.ibb.co/SnkmG29/KRISTEN-PLOTNIKOFF.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "José Pinzón",
+          "id": "arrepinchoso_10",
+          "profile": "https://i.ibb.co/qRZqz4D/JOSE-MANUEL-PINZON.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Nissim Sagal",
+          "id": "arrepinchoso_11",
+          "profile": "https://i.ibb.co/pLFR5Qh/NISSIM-SAGAL.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Laura Aguilar",
+          "id": "arrepinchoso_12",
+          "profile": "https://i.ibb.co/ZHjtsBv/LAURA-AGUILAR.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Ana Lucia Diaz",
+          "id": "arrepinchoso_13",
+          "profile": "https://i.ibb.co/tZp99k3/ANA-LUCIA-DIAZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Ana Maria Tejada",
+          "id": "arrepinchoso_14",
+          "profile": "https://i.ibb.co/BTgyGg9/ANATEJADA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Eric Magdaleno",
+          "id": "arrepinchoso_15",
+          "profile": "https://i.ibb.co/mDmT3Bn/ERIC-MAGDALENO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Juan Diego Silva",
+          "id": "arrepinchoso_16",
+          "profile": "https://i.ibb.co/dKxnTcc/JUAN-DIEGO-SILVA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Maria Escobar",
+          "id": "arrepinchoso_17",
+          "profile": "https://i.ibb.co/whVx6VF/MARIA-ESCOBAR.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Genesis Barrios",
+          "id": "arrepinchoso_18",
+          "profile": "https://i.ibb.co/FDRBF1z/GENESIS-BARRIOS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Carla Morales",
+          "id": "arrepinchoso_19",
+          "profile": "https://i.ibb.co/Ch9sNhm/CARLA-MORALES.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Carlos Montilla",
+          "id": "arrepinchoso_20",
+          "profile": "https://i.ibb.co/CpyjXxm/CARLOS-MONTILLA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Francis Yanguez",
+          "id": "arrepinchoso_21",
+          "profile": "https://i.ibb.co/tcB0zLF/FRANCIS-YANGUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        }
+      ]
+    },
+    "black_foals": {
+      "name": "Black Foals",
+      "logo": "https://i.ibb.co/72r6LSL/black-foals.jpg",
+      "players": [
+        {
+          "name": "Crescencio Rangel Troya",
+          "id": "black_foal_1",
+          "profile": "https://i.ibb.co/6XF9cPT/CRESCENCIO-RANGEL.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Juan Felipe Barrera Uguestubo",
+          "id": "black_foal_2",
+          "profile": "https://i.ibb.co/DRstrxY/JUAN-BARRERA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Luis Fernando Escobar Olivardia",
+          "id": "black_foal_3",
+          "profile": "https://i.ibb.co/3NDbL3m/LUIS-ESCOBAR.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Angel Ariel Ortiz",
+          "id": "black_foal_4",
+          "profile": "https://i.ibb.co/jwHwzn0/ANGEL-ORTIZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Diego Abdiel Duque Blanquicet",
+          "id": "black_foal_5",
+          "profile": "https://i.ibb.co/y6w4Mz9/DIEGO-DUQUE.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Edwin Manuel Alvarez Martinez",
+          "id": "black_foal_6",
+          "profile": "https://i.ibb.co/GVD4Bp3/EDWIN-ALVAREZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Andres Abdiel Cardenas Rangel",
+          "id": "black_foal_7",
+          "profile": "https://i.ibb.co/f88MZ0J/ANDRES-CARDENAS-JR.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Andres Abdiel Cardenas Castillo",
+          "id": "black_foal_8",
+          "profile": "https://i.ibb.co/tPfCmQK/ANDRES-CARDENAS.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Eduardo Castillero",
+          "id": "black_foal_9",
+          "profile": "https://i.ibb.co/M8PsF0b/EDUARDO-CASTILLERO.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Roderick Gaitan",
+          "id": "black_foal_10",
+          "profile": "https://i.ibb.co/sgRLtwH/RODERICK-GAITAN.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Federico Sanchez",
+          "id": "black_foal_11",
+          "profile": "https://i.ibb.co/B4KXN3W/FEDERICO-SANCHEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "m"
+        },
+        {
+          "name": "Ana Luisa Saavedra Mitre",
+          "id": "black_foal_12",
+          "profile": "https://i.ibb.co/GnMyK2s/ANA-SAAVEDRA.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Blanca Edixys Rangel Troya",
+          "id": "black_foal_13",
+          "profile": "https://i.ibb.co/3pNxshf/BLANCA-RANGEL.png",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Maria Fernanda Quintero Bustamante",
+          "id": "black_foal_14",
+          "profile": "https://i.ibb.co/WznwJs0/MARIA-QUINTERO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Yheizzi Grisell Ortiz Ledezma",
+          "id": "black_foal_15",
+          "profile": "https://i.ibb.co/RH0wcjg/YHEIZZI-ORTIZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Delbys Editxys Rangel Troya",
+          "id": "black_foal_16",
+          "profile": "https://i.ibb.co/2SDZnKV/DELBYS-RANGEL.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Guadalupe Del Carmen Atencio Cardenas",
+          "id": "black_foal_17",
+          "profile": "https://i.ibb.co/bJ7XmCs/GUADALUPE-ATENCIO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Maylin Alcedo",
+          "id": "black_foal_18",
+          "profile": "https://i.ibb.co/PM6W5gL/MAYLIN-ALCEDO.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Sabelis Sanchez",
+          "id": "black_foal_19",
+          "profile": "https://i.ibb.co/Xj3sCBD/SABELIS-SANCHEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        },
+        {
+          "name": "Lideyka Rodriguez",
+          "id": "black_foal_20",
+          "profile": "https://i.ibb.co/w44869Z/LIDEYKA-RODRIGUEZ.jpg",
+          "isRookie": false,
+          "isCaptain": false,
+          "gender": "f"
+        }
+      ]
+    }
+  }
+}
