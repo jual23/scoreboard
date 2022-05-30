@@ -22,10 +22,14 @@ const Scoreboard = ({ matchData, homeRuns, awayRuns }) => {
         </div>
       </div>
       <div>
-        <h3>INNING</h3>
-        <span>{matchData.inning}</span>
-        <h3>OUT</h3>
-        <span>{matchData.outs}</span>
+        <div className="scoreboard-container_game-stat">
+          <h3>INNING</h3>
+          <p>{matchData.inning}</p>
+        </div>
+        <div className="scoreboard-container_game-stat">
+          <h3>OUT</h3>
+          <p>{matchData.outs}</p>
+        </div>        
       </div>
     </div>
   );

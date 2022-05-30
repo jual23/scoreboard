@@ -4,29 +4,34 @@ const ModalStats = ({ player, statDown, statUp }) => {
       <h3>{player.name}</h3>
       <ul>
         <li>
-          <button onClick={() => statUp(player, "hit")}>UP</button>
+          <h3>H</h3>
+          <button onClick={() => statUp(player, "hit")}>+</button>
           <p>{player.hit}</p>
-          <button onClick={() => statDown(player, "hit")}>DOWN</button>
+          <button onClick={() => statDown(player, "hit")}>-</button>
         </li>
         <li>
-          <button onClick={() => statUp(player, "run")}>UP</button>
+          <h3>C</h3>
+          <button onClick={() => statUp(player, "run")}>+</button>
           <p>{player.run}</p>
-          <button onClick={() => statDown(player, "run")}>DOWN</button>
+          <button onClick={() => statDown(player, "run")}>-</button>
         </li>
         <li>
-          <button onClick={() => statUp(player, "homerun")}>UP</button>
+          <h3>HR</h3>
+          <button onClick={() => statUp(player, "homerun")}>+</button>
           <p>{player.homerun}</p>
-          <button onClick={() => statDown(player, "homerun")}>DOWN</button>
+          <button onClick={() => statDown(player, "homerun")}>-</button>
         </li>
         <li>
-          <button onClick={() => statUp(player, "out")}>UP</button>
+          <h3>O</h3>
+          <button onClick={() => statUp(player, "out")}>+</button>
           <p>{player.out}</p>
-          <button onClick={() => statDown(player, "out")}>DOWN</button>
+          <button onClick={() => statDown(player, "out")}>-</button>
         </li>
         <li>
-          <button onClick={() => statUp(player, "strikeout")}>UP</button>
+          <h3>SO</h3>
+          <button onClick={() => statUp(player, "strikeout")}>+</button>
           <p>{player.strikeout}</p>
-          <button onClick={() => statDown(player, "strikeout")}>DOWN</button>
+          <button onClick={() => statDown(player, "strikeout")}>-</button>
         </li>
       </ul>
     </div>

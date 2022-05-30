@@ -14,28 +14,25 @@ import PlayerList from "./components/PlayerList";
 //Data & Parser
 import rawData from "./data/22_lpk_1_teams.json";
 import parser from "./utils/parser";
-import { onSnapshot, collection } from "firebase/firestore";
 import ModalStats from "./components/ModalStats";
 import TeamSelect from "./components/TeamSelect";
+import teamParser from "./utils/teamParser";
 
 const App = () => {
-  const [data, setData] = useState(parser(rawData));
-  const [open, setOpen] = useState(false);
-  const handleClose = () => {
-    setOpen(false);
-  };
-
-  // useEffect(() => {
-  //   onSnapshot(collection(firebase, "users"), (snapshot) => {
-  //     console.log(snapshot);
-  //   });
-  // });
+  const data = parser(rawData);
+  // TEMPORAL
+  const teamList = teamParser(rawData)
+  useEffect(() => {
+    const savedData = window.localStorage.getItem('MY_APP_STATE');
+    if ( savedData !== null ) setMatchData(JSON.parse(savedData));
+  }, []);
+  
 
   const [player, setPlayer] = useState(null);
 
   const [matchData, setMatchData] = useState({
-    home: "Arrepinchosos",
-    away: "Akatsuki",
+    home: "",
+    away: "",
     inning: 1,
     outs: 0,
     bottomHalf: false,
@@ -60,13 +57,44 @@ const App = () => {
     { inning: 7, runs: "" },
   ]);
 
-  const [homeTeam, setHomeTeam] = useState(data[matchData.home]);
-  const [awayTeam, setAwayTeam] = useState(data[matchData.away]);
+  const [homeTeam, setHomeTeam] = useState();
+  const [awayTeam, setAwayTeam] = useState();
 
+  const submitTeams = (e) => {
+    e.preventDefault()
+setHomeTeam(data[matchData.home])
+setAwayTeam(data[matchData.away])
+window.localStorage.setItem('MY_APP_STATE', JSON.stringify(matchData));
+  }
+
+
+ 
   const handlePlayer = (player) => {
     setPlayer(player);
   };
 
+  const reorder = (list, startIndex, endIndex) => {
+    const result = Array.from(list);
+    const [removed] = result.splice(startIndex, 1);
+    result.splice(endIndex, 0, removed);
+  
+    return result;
+  };
+
+  const updateTeam = (result) => {
+result.source.droppableId == matchData.home ?
+    setHomeTeam(reorder(
+      homeTeam,
+      result.source.index,
+      result.destination.index
+    )) :
+    setAwayTeam(reorder(
+      awayTeam,
+      result.source.index,
+      result.destination.index
+    )) 
+  }
+ 
   const statUp = (currentPlayer, stat) => {
     if (stat === "out" || stat === "strikeout") { outUp()}
     if (stat === "run" || stat === "homerun") { runUp()}
@@ -190,8 +218,8 @@ const App = () => {
 
   return (
     <Router>
-      <TeamSelect setMatchData={setMatchData} matchData={matchData}/>
-      <div className="main">
+      { !homeTeam && <TeamSelect setMatchData={setMatchData} matchData={matchData} submitTeams={submitTeams} teamList={teamList}/>}
+      { homeTeam && <div className="main">
         <div className="top-row">
           <MatchInfo />
           <Scoreboard
@@ -204,21 +232,23 @@ const App = () => {
 
 
         <div className="teams-container">
-          <PlayerList
-            onHandlePlayer={handlePlayer}
-            team={homeTeam}
-            teamName={matchData.home}
-            statUp={statUp}
-            statDown={statDown}
-          />
-          
-          <PlayerList
-            team={awayTeam}
-            onHandlePlayer={handlePlayer}
-            teamName={matchData.away}
-            statUp={statUp}
-            statDown={statDown}
-          />
+           
+            <PlayerList
+              updateTeam ={updateTeam}
+              onHandlePlayer={handlePlayer}
+              team={homeTeam}
+              teamName={matchData.home}
+              statUp={statUp}
+              statDown={statDown}
+            />
+            <PlayerList
+              updateTeam ={updateTeam}
+              team={awayTeam}
+              onHandlePlayer={handlePlayer}
+              teamName={matchData.away}
+              statUp={statUp}
+              statDown={statDown}
+            />
         </div>
 
 
@@ -230,7 +260,7 @@ const App = () => {
         >
           <ModalStats player={player} statUp={statUp} statDown={statDown} />
         </Modal>
-      </div>
+      </div>}
     </Router>
   );
 };
