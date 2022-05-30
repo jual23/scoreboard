@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import "./App.css";
 import Modal from "@mui/material/Modal";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
+import { BrowserRouter as Router} from "react-router-dom";
 import exportFromJSON from 'export-from-json'
 
 // Components
@@ -82,7 +82,7 @@ window.localStorage.setItem('MY_APP_STATE', JSON.stringify(matchData));
   };
 
   const updateTeam = (result) => {
-result.source.droppableId == matchData.home ?
+result.source.droppableId === matchData.home ?
     setHomeTeam(reorder(
       homeTeam,
       result.source.index,
