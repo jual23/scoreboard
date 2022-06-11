@@ -81,7 +81,6 @@ margin-left: 25px;
   justify-content: space-evenly;
 }
 .player-list {
-  border: 2px solid #ffb300;
   background-color: #f7f7f7;
   border-radius: 5px;
   flex-basis: 47%;
@@ -105,24 +104,57 @@ margin-left: 25px;
   text-align: center;
 }
 
+.player-list_team_batter {
+  background-color:grey;
+  padding:0 9px;
+  margin:10px 5px;
+  border: 3px solid grey;
+  min-height: 50px;
+  border-radius: 5px;
+}
+
+.player-list_team_reserve {
+  background-color:grey ;
+  padding:0 9px;
+  margin:10px 5px;
+  border: 1px solid grey;
+  border-radius: 5px;
+}
+
+.gender_m {
+  background-color: skyblue;
+}
+
+.gender_f {
+  background-color: pink;
+}
+
 .player-list_stats {
   display: flex;
-  border-bottom: 1px solid #000000;
-  margin: 10px;
+  border-radius: 8px;
   padding: 20px 0px;
-  align-content: center;
+  justify-content: space-around;
+  align-items: center;
 }
 
 .player-list_stats li {
-  flex-basis: 8%;
+  flex-basis: 5%;
   text-align: center;
+}
+
+.player-list_stats h2 {
+  margin: 0;
+  font-weight: 500;
+  flex-basis: 5%;
+  line-height: 27px;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .player-list_stats h3 {
   margin: 0;
   font-weight: 500;
-  flex-basis: 60%;
-  font-size: 18px;
+  flex-basis: 30%;
+  font-size: 15px;
   line-height: 27px;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -185,3 +217,5 @@ input[type=button], input[type=submit], input[type=reset] {
   margin: 4px 2px;
   cursor: pointer;
 }
+
+

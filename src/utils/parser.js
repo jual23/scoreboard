@@ -12,10 +12,12 @@ const parser = (data) => {
   for (const team of Object.values(teams)) {
     output[team.name] = [];
     for (const player of team.players) {
-      const { name, id } = player;
+      const { name, id, number,gender } = player;
       output[team.name].push({
         name,
         id,
+        number,
+        gender,
         team: team.name,
         ...scoreData,
       });

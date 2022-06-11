@@ -6,6 +6,8 @@ import Stats from "./Stats";
 const PlayerList = ({
   team,
   teamName,
+  teamBatter,
+  teamId,
   statUp,
   statDown,
   onHandlePlayer,
@@ -23,18 +25,15 @@ const PlayerList = ({
           <p>SO</p>
         </div>
         <DragDropContext onDragEnd={updateTeam}>
-          <Droppable droppableId={teamName}>
-        {(provided,snapshot) => (
-          <div ref={provided.innerRef}>
-            {team.map((player,index) => (
+          <Droppable droppableId ={teamId+"_batter"} >
+          {(provided,snapshot) => (
+          <div ref={provided.innerRef} className="player-list_team_batter">
+            {teamBatter.map((player,index) => (
               <Draggable draggableId={player.id} key={player.id} index={index}>
                 {(provided, snapshot) => (
                   <div ref={provided.innerRef} {...provided.draggableProps}
                   {...provided.dragHandleProps}>
-                    <Stats
-                     
-                  
-                 
+                    <Stats    
                     key={player.id}
                     player={player}
                     onHandlePlayer={onHandlePlayer}
@@ -48,8 +47,31 @@ const PlayerList = ({
             ))}
             {provided.placeholder}
           </div>
-        )}
-        
+        )}  
+          </Droppable>
+          <Droppable droppableId={teamId+"_reserve"}>
+        {(provided,snapshot) => (
+          <div ref={provided.innerRef} className="player-list_team_reserve">
+            {team.map((player,index) => (
+              <Draggable draggableId={player.id} key={player.id} index={index}>
+                {(provided, snapshot) => (
+                  <div ref={provided.innerRef} {...provided.draggableProps}
+                  {...provided.dragHandleProps}>
+                    <Stats
+                    key={player.id}
+                    player={player}
+                    onHandlePlayer={onHandlePlayer}
+                    statUp={statUp}
+                    statDown={statDown}
+                    teamName={teamName}
+                  />
+                </div>
+                )}
+              </Draggable>
+            ))}
+            {provided.placeholder}
+          </div>
+        )}   
           </Droppable>
         </DragDropContext>
       </div>

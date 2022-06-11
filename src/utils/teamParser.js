@@ -5,7 +5,6 @@
     for (const team of Object.values(teams)) {
       output.push(team.name)
       }
-      console.log(output)
       return output;
     }
     

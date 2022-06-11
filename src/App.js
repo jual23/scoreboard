@@ -20,7 +20,6 @@ import teamParser from "./utils/teamParser";
 
 const App = () => {
   const data = parser(rawData);
-  // TEMPORAL
   const teamList = teamParser(rawData)
   useEffect(() => {
     const savedData = window.localStorage.getItem('MY_APP_STATE');
@@ -59,6 +58,8 @@ const App = () => {
 
   const [homeTeam, setHomeTeam] = useState();
   const [awayTeam, setAwayTeam] = useState();
+  const [homeBatter, setHomeBatter] = useState([]);
+  const [awayBatter, setAwayBatter] = useState([]);
 
   const submitTeams = (e) => {
     e.preventDefault()
@@ -66,35 +67,71 @@ setHomeTeam(data[matchData.home])
 setAwayTeam(data[matchData.away])
 window.localStorage.setItem('MY_APP_STATE', JSON.stringify(matchData));
   }
-
-
  
   const handlePlayer = (player) => {
     setPlayer(player);
   };
 
-  const reorder = (list, startIndex, endIndex) => {
-    const result = Array.from(list);
-    const [removed] = result.splice(startIndex, 1);
-    result.splice(endIndex, 0, removed);
-  
-    return result;
-  };
+  const updateHomeTeam = (result) => {
+    let movedItem, newBatter = homeBatter, newReserve = homeTeam
 
-  const updateTeam = (result) => {
-result.source.droppableId === matchData.home ?
-    setHomeTeam(reorder(
-      homeTeam,
-      result.source.index,
-      result.destination.index
-    )) :
-    setAwayTeam(reorder(
-      awayTeam,
-      result.source.index,
-      result.destination.index
-    )) 
+    if (result.source.droppableId === result.destination.droppableId) {
+      if (result.source.droppableId === "home_reserve") {
+         movedItem = newReserve[result.source.index]
+         newReserve.splice(result.source.index,1)  
+         newReserve.splice(result.destination.index,0,movedItem)      
+       } else {
+          movedItem = newBatter[result.source.index]
+          newBatter.splice(result.source.index,1) 
+          newBatter.splice(result.destination.index,0,movedItem) 
+       }
+       
+     } else {
+       if (result.source.droppableId === "home_reserve") {
+          movedItem = newReserve[result.source.index]
+          newReserve.splice(result.source.index,1) 
+          newBatter.splice(result.destination.index,0,movedItem) 
+        } else {
+          movedItem = newBatter[result.source.index]
+          newBatter.splice(result.source.index,1) 
+          newReserve.splice(result.destination.index,0,movedItem) 
+        }
+     }
+      setHomeTeam(newReserve)
+      setHomeBatter(newBatter)
+  }
+
+  const updateAwayTeam = (result) => {
+    let movedItem, newBatter = awayBatter, newReserve = awayTeam
+
+    if (result.source.droppableId === result.destination.droppableId) {
+      if (result.source.droppableId === "away_reserve") {
+         movedItem = newReserve[result.source.index]
+         newReserve.splice(result.source.index,1)  
+         newReserve.splice(result.destination.index,0,movedItem)      
+       } else {
+          movedItem = newBatter[result.source.index]
+          newBatter.splice(result.source.index,1) 
+          newBatter.splice(result.destination.index,0,movedItem) 
+       }
+       
+     } else {
+       if (result.source.droppableId === "away_reserve") {
+          movedItem = newReserve[result.source.index]
+          newReserve.splice(result.source.index,1) 
+          newBatter.splice(result.destination.index,0,movedItem) 
+        } else {
+          movedItem = newBatter[result.source.index]
+          newBatter.splice(result.source.index,1) 
+          newReserve.splice(result.destination.index,0,movedItem) 
+        }
+     }
+      
+      setAwayTeam(newReserve)
+      setAwayBatter(newBatter)
   }
  
+
   const statUp = (currentPlayer, stat) => {
     if (stat === "out" || stat === "strikeout") { outUp()}
     if (stat === "run" || stat === "homerun") { runUp()}
@@ -109,9 +146,6 @@ result.source.droppableId === matchData.home ?
               }
               return player;
             }
-            // player.id === currentPlayer.id
-            //   ? { ...player, [stat]: player[stat] + 1 }
-            //   : player
           )
         )
       : setAwayTeam(
@@ -123,20 +157,16 @@ result.source.droppableId === matchData.home ?
               }
               return player;
             }
-            // player.id === currentPlayer.id
-            //   ? { ...player, [stat]: player[stat] + 1 }
-            //   : player
           )
         );
   };
 
   const statDown = (currentPlayer, stat) => {
+    if (stat === "out" || stat === "strikeout") { outDown()}
+    if (stat === "run" || stat === "homerun") { runDown()}
     currentPlayer.team === matchData.home
       ? setHomeTeam(
           homeTeam.map((player) => {
-            // (player.id === currentPlayer.id
-            //   ? { ...player, [stat]: player[stat] - 1 }
-            //   : player)
             if (player.id === currentPlayer.id) {
               setPlayer({ ...player, [stat]: player[stat] - 1 });
               return { ...player, [stat]: player[stat] - 1 };
@@ -146,9 +176,6 @@ result.source.droppableId === matchData.home ?
         )
       : setAwayTeam(
           awayTeam.map((player) => {
-            // player.id === currentPlayer.id
-            //   ? { ...player, [stat]: player[stat] - 1 }
-            //   : player
             if (player.id === currentPlayer.id) {
               setPlayer({ ...player, [stat]: player[stat] - 1 });
               return { ...player, [stat]: player[stat] - 1 };
@@ -209,6 +236,49 @@ result.source.droppableId === matchData.home ?
         );
   };
 
+  const outDown = () => {
+    matchData.outs === 0 
+      ? matchData.bottomHalf === true 
+        ? setMatchData ( 
+          {
+            ...matchData,
+            outs: 2,
+            bottomHalf:false
+          })
+        : setMatchData ( 
+          {
+            ...matchData,
+            outs: 2,
+            bottomHalf:true,
+            inning: matchData.inning - 1
+          })     
+        : setMatchData ({...matchData, outs: matchData.outs-1})
+  }
+
+  const runDown = () => {
+    matchData.bottomHalf === true
+      ? setHomeRuns(
+          homeRuns.map((inning) =>
+            inning.inning === matchData.inning
+              ? inning.runs > 0 
+                ? {...inning, runs: inning.runs-1}
+              :
+                inning
+              : inning
+          )
+        )
+      : setAwayRuns(
+          awayRuns.map((inning) =>
+            inning.inning === matchData.inning
+              ? inning.runs > 0 
+                ? {...inning, runs: inning.runs-1}
+              :
+                inning
+              : inning
+        )
+        );
+  }
+
   const save = () => {
     let data = JSON.stringify(homeTeam.concat(awayTeam))
     let filename = 'download'
@@ -234,16 +304,20 @@ result.source.droppableId === matchData.home ?
         <div className="teams-container">
            
             <PlayerList
-              updateTeam ={updateTeam}
+              updateTeam ={updateHomeTeam}
               onHandlePlayer={handlePlayer}
               team={homeTeam}
+              teamBatter={homeBatter}
+              teamId={"home"}
               teamName={matchData.home}
               statUp={statUp}
               statDown={statDown}
             />
             <PlayerList
-              updateTeam ={updateTeam}
+              updateTeam ={updateAwayTeam}
               team={awayTeam}
+              teamBatter={awayBatter}
+              teamId={"away"}
               onHandlePlayer={handlePlayer}
               teamName={matchData.away}
               statUp={statUp}
