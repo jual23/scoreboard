@@ -166,7 +166,6 @@ margin-left: 25px;
   transform: translate(-50%, -50%);
   width: 400px;
   background-color: #ffffff;
-  border: 3px solid #ffb300;
   border-radius: 10px;
 }
 
@@ -177,6 +176,32 @@ margin-left: 25px;
 .player-list_stats_modal ul {
   display: flex;
   justify-content: space-evenly;
+}
+
+.player-list_stats_modal > div {
+  display: flex;
+  justify-content: space-evenly;
+  margin:20px
+}
+
+.player-list_stats_modal > div > div {
+  flex-basis: 30% ;
+}
+.player-list_stats_modal > div > div input {
+  width: 100% ;
+  height: 25px;
+  border: 1px solid #000;
+  border-radius: 3px;
+}
+
+.player-list_stats_modal button {
+  width:40px;
+  height: 40px;
+  border-radius: 50%;
+  font-size: 25px;
+  border: none;
+  background-color: #00723b;
+  color: #FFF;
 }
 
 .player-list_stats_modal ul li {

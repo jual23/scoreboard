@@ -27,7 +27,6 @@ const App = () => {
             .then(response => {
                 setTeams(response.data.data[0].attributes.teams.data)
             })
-            .catch(error => console.error(error))
     }, [])
 
     const [player, setPlayer] = useState(null)
@@ -51,7 +50,6 @@ const App = () => {
         {inning: 6, runs: ''},
         {inning: 7, runs: ''},
         {inning: 8, runs: ''},
-        {inning: 9, runs: ''},
     ])
     const [awayRuns, setAwayRuns] = useState([
         {inning: 1, runs: 0},
@@ -62,7 +60,6 @@ const App = () => {
         {inning: 6, runs: ''},
         {inning: 7, runs: ''},
         {inning: 8, runs: ''},
-        {inning: 9, runs: ''},
     ])
 
     const [homeTeam, setHomeTeam] = useState()
@@ -70,7 +67,7 @@ const App = () => {
     const [homeBatter, setHomeBatter] = useState([])
     const [awayBatter, setAwayBatter] = useState([])
 
-    const parsePlayers = (response, teamId) => {
+    const parsePlayers = (response, teamId, teamName) => {
         let output = []
 
         for (let player of response) {
@@ -80,12 +77,14 @@ const App = () => {
                 gender: player.attributes.player.data.attributes.gender,
                 id: `${player.attributes.player.data.id}`,
                 team: teamId,
+                teamname: teamName,
                 hit: 0,
+                double: 0,
                 run: 0,
                 homerun: 0,
                 out: 0,
                 strikeout: 0,
-                bateador: '',
+                corredor: '',
                 pateador: '',
             }
             output.push(p)
@@ -116,18 +115,28 @@ const App = () => {
                 `https://pmalgs-kickball-api-r2e5t.ondigitalocean.app/api/rosters?fields[0]=number&populate[player][fields][0]=name&populate[player][fields][1]=gender&populate[player][populate][profile][fields][0]=url&filters[team][id][$eq]=${matchData.homeId}&filters[league][id][$eq]=2`
             )
             .then(response => {
-                setHomeTeam(parsePlayers(response.data.data, matchData.homeId))
+                setHomeTeam(
+                    parsePlayers(
+                        response.data.data,
+                        matchData.homeId,
+                        matchData.home
+                    )
+                )
             })
-            .catch(error => console.error(error))
 
         axios
             .get(
                 `https://pmalgs-kickball-api-r2e5t.ondigitalocean.app/api/rosters?fields[0]=number&populate[player][fields][0]=name&populate[player][fields][1]=gender&populate[player][populate][profile][fields][0]=url&filters[team][id][$eq]=${matchData.awayId}&filters[league][id][$eq]=2`
             )
             .then(response => {
-                setAwayTeam(parsePlayers(response.data.data, matchData.awayId))
+                setAwayTeam(
+                    parsePlayers(
+                        response.data.data,
+                        matchData.awayId,
+                        matchData.away
+                    )
+                )
             })
-            .catch(error => console.error(error))
     }
 
     const handlePlayer = player => {
@@ -195,6 +204,29 @@ const App = () => {
         setAwayBatter(newBatter)
     }
 
+    const emerging = (currentPlayer, stat, value) => {
+        currentPlayer.team === matchData.homeId
+            ? setHomeTeam(
+                  homeTeam.map(player => {
+                      if (player.id === currentPlayer.id) {
+                          setPlayer({...player, [stat]: value})
+                          return {...player, [stat]: value}
+                      }
+                      return player
+                  })
+              )
+            : setAwayTeam(
+                  awayTeam.map(player => {
+                      if (player.id === currentPlayer.id) {
+                          if (stat === 'pateador' || stat === 'corredor') {
+                          } else setPlayer({...player, [stat]: value})
+                          return {...player, [stat]: value}
+                      }
+                      return player
+                  })
+              )
+    }
+
     const statUp = (currentPlayer, stat) => {
         if (stat === 'out' || stat === 'strikeout') {
             outUp()
@@ -216,7 +248,9 @@ const App = () => {
             : setAwayTeam(
                   awayTeam.map(player => {
                       if (player.id === currentPlayer.id) {
-                          setPlayer({...player, [stat]: player[stat] + 1})
+                          if (stat === 'pateador' || stat === 'corredor') {
+                          } else
+                              setPlayer({...player, [stat]: player[stat] + 1})
                           return {...player, [stat]: player[stat] + 1}
                       }
                       return player
@@ -343,10 +377,23 @@ const App = () => {
     }
 
     const save = () => {
-        let data = JSON.stringify(homeTeam.concat(awayTeam))
-        let filename = 'download'
-        let extension = 'json'
-        exportFromJSON({data, filename, extension})
+        const data = homeTeam.concat(awayTeam)
+        const filename = 'download'
+        const exportType = 'xls'
+        const fields = [
+            'name',
+            'number',
+            'teamname',
+            'hit',
+            'double',
+            'run',
+            'homerun',
+            'out',
+            'strikeout',
+            'pateador',
+            'corredor',
+        ]
+        exportFromJSON({data, filename, fields, exportType})
     }
 
     return (
@@ -408,6 +455,7 @@ const App = () => {
                             player={player}
                             statUp={statUp}
                             statDown={statDown}
+                            emerging={emerging}
                         />
                     </Modal>
                 </div>
