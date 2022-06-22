@@ -378,7 +378,7 @@ const App = () => {
 
     const save = () => {
         const data = homeTeam.concat(awayTeam)
-        const filename = 'download'
+        const filename = `${matchData.home} vs ${matchData.away}`
         const exportType = 'xls'
         const fields = [
             'name',
@@ -406,7 +406,7 @@ const App = () => {
                     teams={teams}
                 />
             )}
-            {awayTeam && (
+            {awayTeam && homeTeam && (
                 <div className="main">
                     <div className="top-row">
                         <MatchInfo />
