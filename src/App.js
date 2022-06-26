@@ -78,6 +78,7 @@ const App = () => {
                 id: `${player.attributes.player.data.id}`,
                 team: teamId,
                 teamname: teamName,
+                role: 0,
                 hit: 0,
                 double: 0,
                 run: 0,
@@ -161,10 +162,12 @@ const App = () => {
         } else {
             if (result.source.droppableId === 'home_reserve') {
                 movedItem = newReserve[result.source.index]
+                movedItem.role = 1
                 newReserve.splice(result.source.index, 1)
                 newBatter.splice(result.destination.index, 0, movedItem)
             } else {
                 movedItem = newBatter[result.source.index]
+                movedItem.role = 0
                 newBatter.splice(result.source.index, 1)
                 newReserve.splice(result.destination.index, 0, movedItem)
             }
@@ -235,7 +238,32 @@ const App = () => {
             runUp()
         }
 
-        currentPlayer.team === matchData.homeId
+        currentPlayer.role === 1
+            ? currentPlayer.team === matchData.homeId
+                ? setHomeBatter(
+                      homeBatter.map(player => {
+                          if (player.id === currentPlayer.id) {
+                              setPlayer({...player, [stat]: player[stat] + 1})
+                              return {...player, [stat]: player[stat] + 1}
+                          }
+                          return player
+                      })
+                  )
+                : setAwayBatter(
+                      awayBatter.map(player => {
+                          if (player.id === currentPlayer.id) {
+                              if (stat === 'pateador' || stat === 'corredor') {
+                              } else
+                                  setPlayer({
+                                      ...player,
+                                      [stat]: player[stat] + 1,
+                                  })
+                              return {...player, [stat]: player[stat] + 1}
+                          }
+                          return player
+                      })
+                  )
+            : currentPlayer.team === matchData.homeId
             ? setHomeTeam(
                   homeTeam.map(player => {
                       if (player.id === currentPlayer.id) {
@@ -265,7 +293,28 @@ const App = () => {
         if (stat === 'run' || stat === 'homerun') {
             runDown()
         }
-        currentPlayer.team === matchData.homeId
+
+        currentPlayer.role === 1
+            ? currentPlayer.team === matchData.homeId
+                ? setHomeBatter(
+                      homeBatter.map(player => {
+                          if (player.id === currentPlayer.id) {
+                              setPlayer({...player, [stat]: player[stat] - 1})
+                              return {...player, [stat]: player[stat] - 1}
+                          }
+                          return player
+                      })
+                  )
+                : setAwayBatter(
+                      awayBatter.map(player => {
+                          if (player.id === currentPlayer.id) {
+                              setPlayer({...player, [stat]: player[stat] - 1})
+                              return {...player, [stat]: player[stat] - 1}
+                          }
+                          return player
+                      })
+                  )
+            : currentPlayer.team === matchData.homeId
             ? setHomeTeam(
                   homeTeam.map(player => {
                       if (player.id === currentPlayer.id) {

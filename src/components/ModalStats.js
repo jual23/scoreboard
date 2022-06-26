@@ -10,7 +10,7 @@ const ModalStats = ({player, statDown, statUp, emerging}) => {
                     <button onClick={() => statDown(player, 'hit')}>-</button>
                 </li>
                 <li>
-                    <h3>D</h3>
+                    <h3>2B</h3>
                     <button onClick={() => statUp(player, 'double')}>+</button>
                     <p>{player.double}</p>
                     <button onClick={() => statDown(player, 'double')}>
@@ -36,6 +36,16 @@ const ModalStats = ({player, statDown, statUp, emerging}) => {
                     <button onClick={() => statUp(player, 'out')}>+</button>
                     <p>{player.out}</p>
                     <button onClick={() => statDown(player, 'out')}>-</button>
+                </li>
+                <li>
+                    <h3>K</h3>
+                    <button onClick={() => statUp(player, 'strikeout')}>
+                        +
+                    </button>
+                    <p>{player.strikeout}</p>
+                    <button onClick={() => statDown(player, 'strikeout')}>
+                        -
+                    </button>
                 </li>
             </ul>
             <div>
